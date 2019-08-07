@@ -11,11 +11,11 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
 
     <item>
-      <title>WAPS: Weighted and Projected Sampling</title>
-      <link>https://yashpote.github.io/post/waps/</link>
+      <title>Phase Transition Behavior of Cardinality and XOR Constraints</title>
+      <link>https://yashpote.github.io/post/ijcai19pjm</link>
       <pubDate>Fri, 03 May 2019 11:06:17 +0530</pubDate>
 
-      <guid>https://yashpote.github.io/post/waps/</guid>
+      <guid>https://yashpote.github.io/post/ijcai19pjm</guid>
       <description>&lt;p&gt;This blogpost talks about our tool &lt;a href=&#34;https://github.com/meelgroup/WAPS&#34; target=&#34;_blank&#34;&gt;WAPS&lt;/a&gt;. Specifically, we will talk about how we are able to utilize the idea of sampling using knowledge compilations (d-DNNFs) from our previous work (&lt;a href=&#34;https://www.comp.nus.edu.sg/~meel/Papers/lpar18.pdf&#34; target=&#34;_blank&#34;&gt;KUS&lt;/a&gt;) and generalize it in order to achieve weighted and projected sampling. This work was jointly performed by &lt;a href=&#34;https://yashpote.github.io/&#34; target=&#34;_blank&#34;&gt;Rahul&lt;/a&gt; and &lt;a href=&#34;https://smsharma1.github.io/&#34; target=&#34;_blank&#34;&gt;Shubham&lt;/a&gt; in the mentorship of &lt;a href=&#34;https://www.cse.iitk.ac.in/users/subhajit/&#34; target=&#34;_blank&#34;&gt;Subhajit&lt;/a&gt; and &lt;a href=&#34;https://www.comp.nus.edu.sg/~meel/&#34; target=&#34;_blank&#34;&gt;Kuldeep&lt;/a&gt;. You can read the paper &lt;a href=&#34;https://www.comp.nus.edu.sg/~meel/Papers/tacas19.pdf&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt; and get the tool &lt;a href=&#34;https://github.com/meelgroup/WAPS&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;. You can read the previous &lt;a href=&#34;https://meelgroup.github.io/post/kus/&#34; target=&#34;_blank&#34;&gt;blog&lt;/a&gt; that describes uniform sampling using knowledge compilations, though it is not absolutely necessary for this post.
 &lt;!-- Don&#39;t worry if you haven&#39;t read the previous blog, I am going to mention the required details here.  --&gt;&lt;/p&gt;
 
@@ -88,7 +88,7 @@ achieving a geometric speedup of $296\times$. For $incremental~sampling$ i.e. fe
     </item>
 
     <item>
-      <title>WAPS: Weighted and Projected Sampling </title>
+      <title>Phase Transition Behavior of Cardinality and XOR Constraints </title>
       <link>https://yashpote.github.io/publication/tacas19/</link>
       <pubDate>Thu, 04 Apr 2019 00:00:00 +0530</pubDate>
 

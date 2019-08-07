@@ -13,11 +13,11 @@
 
 
     <item>
-      <title>WAPS: Weighted and Projected Sampling</title>
-      <link>https://yashpote.github.io/post/waps/</link>
+      <title>Phase Transition Behavior of Cardinality and XOR Constraints</title>
+      <link>https://yashpote.github.io/post/ijcai19pjm</link>
       <pubDate>Fri, 03 May 2019 11:06:17 +0530</pubDate>
 
-      <guid>https://yashpote.github.io/post/waps/</guid>
+      <guid>https://yashpote.github.io/post/ijcai19pjm</guid>
       <description>This blogpost talks about our tool WAPS. Specifically, we will talk about how we are able to utilize the idea of sampling using knowledge compilations (d-DNNFs) from our previous work (KUS) and generalize it in order to achieve weighted and projected sampling. This work was jointly performed by Rahul and Shubham in the mentorship of Subhajit and Kuldeep. You can read the paper here and get the tool here. You can read the previous blog that describes uniform sampling using knowledge compilations, though it is not absolutely necessary for this post.</description>
     </item>
 
