@@ -2,40 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Yash Pote</title>
-    <link>https://rahulguptakota.github.io/tags/</link>
+    <link>https://yashpote.github.io/tags/</link>
     <description>Recent content in Tags on Yash Pote</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
     <copyright>&amp;copy; 2017 Yash Pote</copyright>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
 
-	<atom:link href="https://rahulguptakota.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://yashpote.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
 
 
     <item>
       <title>Content tagged as &#39;Academic&#39;</title>
-      <link>https://rahulguptakota.github.io/tags/academic/</link>
+      <link>https://yashpote.github.io/tags/academic/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
 
-      <guid>https://rahulguptakota.github.io/tags/academic/</guid>
+      <guid>https://yashpote.github.io/tags/academic/</guid>
       <description>Here is a list of all the content that has been tagged as academic.</description>
     </item>
 
     <item>
       <title>Deep-learning</title>
-      <link>https://rahulguptakota.github.io/tags/deep-learning/</link>
+      <link>https://yashpote.github.io/tags/deep-learning/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
 
-      <guid>https://rahulguptakota.github.io/tags/deep-learning/</guid>
+      <guid>https://yashpote.github.io/tags/deep-learning/</guid>
       <description></description>
     </item>
 
     <item>
       <title>Demo</title>
-      <link>https://rahulguptakota.github.io/tags/demo/</link>
+      <link>https://yashpote.github.io/tags/demo/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
 
-      <guid>https://rahulguptakota.github.io/tags/demo/</guid>
+      <guid>https://yashpote.github.io/tags/demo/</guid>
       <description></description>
     </item>
 

@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Yash Pote on Yash Pote</title>
-    <link>https://rahulguptakota.github.io/</link>
+    <link>https://yashpote.github.io/</link>
     <description>Recent content in Yash Pote on Yash Pote</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
@@ -12,11 +12,11 @@
 
     <item>
       <title>WAPS: Weighted and Projected Sampling</title>
-      <link>https://rahulguptakota.github.io/post/waps/</link>
+      <link>https://yashpote.github.io/post/waps/</link>
       <pubDate>Fri, 03 May 2019 11:06:17 +0530</pubDate>
 
-      <guid>https://rahulguptakota.github.io/post/waps/</guid>
-      <description>&lt;p&gt;This blogpost talks about our tool &lt;a href=&#34;https://github.com/meelgroup/WAPS&#34; target=&#34;_blank&#34;&gt;WAPS&lt;/a&gt;. Specifically, we will talk about how we are able to utilize the idea of sampling using knowledge compilations (d-DNNFs) from our previous work (&lt;a href=&#34;https://www.comp.nus.edu.sg/~meel/Papers/lpar18.pdf&#34; target=&#34;_blank&#34;&gt;KUS&lt;/a&gt;) and generalize it in order to achieve weighted and projected sampling. This work was jointly performed by &lt;a href=&#34;https://rahulguptakota.github.io/&#34; target=&#34;_blank&#34;&gt;Rahul&lt;/a&gt; and &lt;a href=&#34;https://smsharma1.github.io/&#34; target=&#34;_blank&#34;&gt;Shubham&lt;/a&gt; in the mentorship of &lt;a href=&#34;https://www.cse.iitk.ac.in/users/subhajit/&#34; target=&#34;_blank&#34;&gt;Subhajit&lt;/a&gt; and &lt;a href=&#34;https://www.comp.nus.edu.sg/~meel/&#34; target=&#34;_blank&#34;&gt;Kuldeep&lt;/a&gt;. You can read the paper &lt;a href=&#34;https://www.comp.nus.edu.sg/~meel/Papers/tacas19.pdf&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt; and get the tool &lt;a href=&#34;https://github.com/meelgroup/WAPS&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;. You can read the previous &lt;a href=&#34;https://meelgroup.github.io/post/kus/&#34; target=&#34;_blank&#34;&gt;blog&lt;/a&gt; that describes uniform sampling using knowledge compilations, though it is not absolutely necessary for this post.
+      <guid>https://yashpote.github.io/post/waps/</guid>
+      <description>&lt;p&gt;This blogpost talks about our tool &lt;a href=&#34;https://github.com/meelgroup/WAPS&#34; target=&#34;_blank&#34;&gt;WAPS&lt;/a&gt;. Specifically, we will talk about how we are able to utilize the idea of sampling using knowledge compilations (d-DNNFs) from our previous work (&lt;a href=&#34;https://www.comp.nus.edu.sg/~meel/Papers/lpar18.pdf&#34; target=&#34;_blank&#34;&gt;KUS&lt;/a&gt;) and generalize it in order to achieve weighted and projected sampling. This work was jointly performed by &lt;a href=&#34;https://yashpote.github.io/&#34; target=&#34;_blank&#34;&gt;Rahul&lt;/a&gt; and &lt;a href=&#34;https://smsharma1.github.io/&#34; target=&#34;_blank&#34;&gt;Shubham&lt;/a&gt; in the mentorship of &lt;a href=&#34;https://www.cse.iitk.ac.in/users/subhajit/&#34; target=&#34;_blank&#34;&gt;Subhajit&lt;/a&gt; and &lt;a href=&#34;https://www.comp.nus.edu.sg/~meel/&#34; target=&#34;_blank&#34;&gt;Kuldeep&lt;/a&gt;. You can read the paper &lt;a href=&#34;https://www.comp.nus.edu.sg/~meel/Papers/tacas19.pdf&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt; and get the tool &lt;a href=&#34;https://github.com/meelgroup/WAPS&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;. You can read the previous &lt;a href=&#34;https://meelgroup.github.io/post/kus/&#34; target=&#34;_blank&#34;&gt;blog&lt;/a&gt; that describes uniform sampling using knowledge compilations, though it is not absolutely necessary for this post.
 &lt;!-- Don&#39;t worry if you haven&#39;t read the previous blog, I am going to mention the required details here.  --&gt;&lt;/p&gt;
 
 &lt;p&gt;Let&amp;rsquo;s talk about what it means to achieve weighted sampling at first.
@@ -89,56 +89,56 @@ achieving a geometric speedup of $296\times$. For $incremental~sampling$ i.e. fe
 
     <item>
       <title>WAPS: Weighted and Projected Sampling </title>
-      <link>https://rahulguptakota.github.io/publication/tacas19/</link>
+      <link>https://yashpote.github.io/publication/tacas19/</link>
       <pubDate>Thu, 04 Apr 2019 00:00:00 +0530</pubDate>
 
-      <guid>https://rahulguptakota.github.io/publication/tacas19/</guid>
+      <guid>https://yashpote.github.io/publication/tacas19/</guid>
       <description></description>
     </item>
 
     <item>
       <title>Verity: Blockchains to Detect Insider Attacks in DBMS</title>
-      <link>https://rahulguptakota.github.io/publication/verity/</link>
+      <link>https://yashpote.github.io/publication/verity/</link>
       <pubDate>Wed, 02 Jan 2019 14:45:30 +0530</pubDate>
 
-      <guid>https://rahulguptakota.github.io/publication/verity/</guid>
+      <guid>https://yashpote.github.io/publication/verity/</guid>
       <description></description>
     </item>
 
     <item>
       <title>Knowledge Compilation meets Uniform Sampling</title>
-      <link>https://rahulguptakota.github.io/publication/lpar18/</link>
+      <link>https://yashpote.github.io/publication/lpar18/</link>
       <pubDate>Wed, 01 Aug 2018 00:00:00 +0530</pubDate>
 
-      <guid>https://rahulguptakota.github.io/publication/lpar18/</guid>
+      <guid>https://yashpote.github.io/publication/lpar18/</guid>
       <description></description>
     </item>
 
     <item>
       <title>Detecting Insider Attacks on Databases using Blockchains</title>
-      <link>https://rahulguptakota.github.io/publication/isrdc17/</link>
+      <link>https://yashpote.github.io/publication/isrdc17/</link>
       <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
 
-      <guid>https://rahulguptakota.github.io/publication/isrdc17/</guid>
+      <guid>https://yashpote.github.io/publication/isrdc17/</guid>
       <description></description>
     </item>
 
     <item>
       <title>Example Talk</title>
-      <link>https://rahulguptakota.github.io/talk/example-talk/</link>
+      <link>https://yashpote.github.io/talk/example-talk/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0530</pubDate>
 
-      <guid>https://rahulguptakota.github.io/talk/example-talk/</guid>
+      <guid>https://yashpote.github.io/talk/example-talk/</guid>
       <description>&lt;p&gt;Embed your slides or video here using &lt;a href=&#34;https://sourcethemes.com/academic/post/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;shortcodes&lt;/a&gt;. Further details can easily be added using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>
     </item>
 
     <item>
       <title>Deep Learning</title>
-      <link>https://rahulguptakota.github.io/project/deep-learning/</link>
+      <link>https://yashpote.github.io/project/deep-learning/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
 
-      <guid>https://rahulguptakota.github.io/project/deep-learning/</guid>
+      <guid>https://yashpote.github.io/project/deep-learning/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
 
 &lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
@@ -153,10 +153,10 @@ achieving a geometric speedup of $296\times$. For $incremental~sampling$ i.e. fe
 
     <item>
       <title>External Project</title>
-      <link>https://rahulguptakota.github.io/project/example-external-project/</link>
+      <link>https://yashpote.github.io/project/example-external-project/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
 
-      <guid>https://rahulguptakota.github.io/project/example-external-project/</guid>
+      <guid>https://yashpote.github.io/project/example-external-project/</guid>
       <description></description>
     </item>
 
