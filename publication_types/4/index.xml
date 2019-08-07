@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>4 on Rahul Gupta</title>
+    <link>https://rahulguptakota.github.io/publication_types/4/</link>
+    <description>Recent content in 4 on Rahul Gupta</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    <copyright>&amp;copy; 2017 Rahul Gupta</copyright>
+    <lastBuildDate>Fri, 01 Dec 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://rahulguptakota.github.io/publication_types/4/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Detecting Insider Attacks on Databases using Blockchains</title>
+      <link>https://rahulguptakota.github.io/publication/isrdc17/</link>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://rahulguptakota.github.io/publication/isrdc17/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

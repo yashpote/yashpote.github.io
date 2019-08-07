@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1 on Rahul Gupta</title>
+    <link>https://rahulguptakota.github.io/publication_types/1/</link>
+    <description>Recent content in 1 on Rahul Gupta</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    <copyright>&amp;copy; 2017 Rahul Gupta</copyright>
+    <lastBuildDate>Thu, 04 Apr 2019 00:00:00 +0530</lastBuildDate>
+    
+	<atom:link href="https://rahulguptakota.github.io/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>WAPS: Weighted and Projected Sampling </title>
+      <link>https://rahulguptakota.github.io/publication/tacas19/</link>
+      <pubDate>Thu, 04 Apr 2019 00:00:00 +0530</pubDate>
+      
+      <guid>https://rahulguptakota.github.io/publication/tacas19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Knowledge Compilation meets Uniform Sampling</title>
+      <link>https://rahulguptakota.github.io/publication/lpar18/</link>
+      <pubDate>Wed, 01 Aug 2018 00:00:00 +0530</pubDate>
+      
+      <guid>https://rahulguptakota.github.io/publication/lpar18/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Rahul Gupta</title>
+    <link>https://rahulguptakota.github.io/post/</link>
+    <description>Recent content in Posts on Rahul Gupta</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    <copyright>&amp;copy; 2017 Rahul Gupta</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0530</lastBuildDate>
+    
+	<atom:link href="https://rahulguptakota.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>WAPS: Weighted and Projected Sampling</title>
+      <link>https://rahulguptakota.github.io/post/waps/</link>
+      <pubDate>Fri, 03 May 2019 11:06:17 +0530</pubDate>
+      
+      <guid>https://rahulguptakota.github.io/post/waps/</guid>
+      <description>This blogpost talks about our tool WAPS. Specifically, we will talk about how we are able to utilize the idea of sampling using knowledge compilations (d-DNNFs) from our previous work (KUS) and generalize it in order to achieve weighted and projected sampling. This work was jointly performed by Rahul and Shubham in the mentorship of Subhajit and Kuldeep. You can read the paper here and get the tool here. You can read the previous blog that describes uniform sampling using knowledge compilations, though it is not absolutely necessary for this post.</description>
+    </item>
+    
+  </channel>
+</rss>
