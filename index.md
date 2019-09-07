@@ -20,21 +20,16 @@ Lorem
 
 ## Posts
 
-Something *italics* and something **bold**.
-
-Here is a table
+Some stuff I have written.
 
 Year | Month | Title
 -----|-------|--------
 2019 | August| [Phase Transitions in Cardinality XORs]()
 
-Here is a horizontal rule
-
 ---
 
-Here is a blockquote
 
-> To a great mind, nothing is little
+> "We demand rigidly defined areas of doubt and uncertainty!"
 
 ## Collaborators
 
