@@ -8,6 +8,8 @@ layout: default
 
 Hi! I am a first year PhD student of Computer Science at the [National University of Singapore]().
 
+I am a PhD student at the National University of Singapore. I work with [Prof. Kuldeep Meel](https://www.comp.nus.edu.sg/~meel/) from NUS. I broadly work in the field of Logic and Probabilistic Reasoning. I am currently working on verifying probabilistic programs.
+
 ## Research Interest
 
 Lorem
