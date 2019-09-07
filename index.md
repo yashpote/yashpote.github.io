@@ -4,7 +4,7 @@ layout: default
 
 ## About Me
 
-<img class="profile-picture" src="sherlock.jpg">
+<img class="profile-picture" src="yash.jpg">
 
 Hi! I am a first year PhD student of Computer Science at the [National University of Singapore]().
 
@@ -20,7 +20,7 @@ Lorem
 
 ## Typography
 
-This is a [link](http://google.com). Something *italics* and something **bold**.
+Something *italics* and something **bold**.
 
 Here is a table
 
