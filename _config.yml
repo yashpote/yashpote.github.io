@@ -17,8 +17,8 @@ sass:
 
 nav:
  - name: "About"
-   link: "/researcher/"
- - name: "Resume"
-   link: "resume.pdf"
+   link: "/"
+# - name: "Resume"
+#   link: "resume.pdf"
  - name: "Contact"
-   link: "contact"
+   link: "conact"
