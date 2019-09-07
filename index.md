@@ -4,7 +4,7 @@ layout: default
 
 ## About Me
 
-<img class="profile-picture" src="yash.jpg">
+<img class="profile-picture" src="yash.jpg" height="42" width="42">
 
 Hi! I am a first year PhD student of Computer Science at the [National University of Singapore]().
 
@@ -16,7 +16,7 @@ Lorem
 
 ## Publications
 
-1. Yash Pote, Saurabh Joshi, Kuldeep S. Meel: *[Phase Transition Behaviour of Cardinality and XOR Constraint]()* (IJCAI-19)
+1. Yash Pote, Saurabh Joshi, Kuldeep S. Meel: *[Phase Transition Behaviour of Cardinality and XOR Constraints](https://www.comp.nus.edu.sg/~meel/Papers/ijcai19pjm.pdf)* (IJCAI-19) *[abstract,cite](https://meelgroup.github.io/publication/ijcai19_cardxor/)*
 
 ## Typography
 
@@ -38,7 +38,7 @@ Here is a blockquote
 
 > To a great mind, nothing is little
 
-## References
+## Collaborators
 
-* Foo Bar: Head of Department, Placeholder Names, Lorem
-* John Doe: Associate Professor, Department of Computer Science, Ipsum
+* [Kuldeep S. Meel](https://www.comp.nus.edu.sg/~meel/): NUS 
+* [Saurabh Joshi](https://sbjoshi.github.io/): IIT-H
