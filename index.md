@@ -10,13 +10,17 @@ Hi! I am a first year PhD student of Computer Science at the [National Universit
 
 I am a PhD student at the National University of Singapore. I work with [Prof. Kuldeep Meel](https://www.comp.nus.edu.sg/~meel/) from NUS. I broadly work in the field of Logic and Probabilistic Reasoning. I am currently working on verifying probabilistic programs.
 
-## Research Interest
+## Research Interests
 
-Lorem
+SAT 
+
+Constraint Solving 
+
+Probabilistic Reasoning
 
 ## Publications
 
-1. Yash Pote, Saurabh Joshi, Kuldeep S. Meel: *[Phase Transition Behaviour of Cardinality and XOR Constraints](https://www.comp.nus.edu.sg/~meel/Papers/ijcai19pjm.pdf)* (IJCAI-19) *[abstract](https://meelgroup.github.io/publication/ijcai19_cardxor/)*,*[cite](https://meelgroup.github.io/publication/ijcai19_cardxor/)*
+1. Yash Pote, Saurabh Joshi, Kuldeep S. Meel: *[Phase Transition Behaviour of Cardinality and XOR Constraints](https://www.comp.nus.edu.sg/~meel/Papers/ijcai19pjm.pdf)* (IJCAI-19) *[[abstract]](https://meelgroup.github.io/publication/ijcai19_cardxor/)*,*[cite](https://meelgroup.github.io/publication/ijcai19_cardxor/)*
 
 ## Posts
 
@@ -35,3 +39,7 @@ Year | Month | Title
 
 * [Kuldeep S. Meel](https://www.comp.nus.edu.sg/~meel/): NUS 
 * [Saurabh Joshi](https://sbjoshi.github.io/): IIT-H
+
+## Research Group
+
+I work in [Meel Research Group](https://meelgroup.github.io/). We are situated in the School of Computing in NUS. 
