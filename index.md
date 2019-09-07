@@ -28,7 +28,8 @@ Some stuff I have written.
 
 Year | Month | Title
 -----|-------|--------
-2019 | August| [Parity and Cardinality]()
+2019 | August| [Parity and Counting]()
+
 ---
 
 
