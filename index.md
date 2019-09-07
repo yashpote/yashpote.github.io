@@ -18,17 +18,15 @@ Lorem
 
 1. Yash Pote, Saurabh Joshi, Kuldeep S. Meel: *[Phase Transition Behaviour of Cardinality and XOR Constraints](https://www.comp.nus.edu.sg/~meel/Papers/ijcai19pjm.pdf)* (IJCAI-19) *[abstract,cite](https://meelgroup.github.io/publication/ijcai19_cardxor/)*
 
-## Typography
+## Posts
 
 Something *italics* and something **bold**.
 
 Here is a table
 
-Year | Award | Category
+Year | Month | Title
 -----|-------|--------
-2014 | Emmy  | Won Outstanding Lead Actor in a miniseries or a movie
-2015 | BAFTA | Nominated for Best Leading Actor for Sherlock
-2014 | Satellite | Won Best Actor miniseries or television film
+2019 | August| [Phase Transitions in Cardinality XORs]()
 
 Here is a horizontal rule
 
