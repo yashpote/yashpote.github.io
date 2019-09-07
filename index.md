@@ -8,7 +8,7 @@ layout: default
 
 Hi! I am a first year PhD student of Computer Science at the [National University of Singapore]().
 
-I am a PhD student at the National University of Singapore. I work with [Prof. Kuldeep Meel](https://www.comp.nus.edu.sg/~meel/) from NUS. I broadly work in the field of Logic and Probabilistic Reasoning. I am currently working on verifying probabilistic programs.
+I work with [Prof. Kuldeep Meel](https://www.comp.nus.edu.sg/~meel/) from NUS. I broadly work in the field of Logic and Probabilistic Reasoning. I am currently working on verifying probabilistic programs.
 
 ## Research Interests
 
@@ -28,8 +28,7 @@ Some stuff I have written.
 
 Year | Month | Title
 -----|-------|--------
-2019 | August| [Phase Transitions in Cardinality XORs]()
-
+2019 | August| [Parity and Cardinality]()
 ---
 
 
