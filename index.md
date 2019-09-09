@@ -6,7 +6,7 @@ layout: default
 
 <img class="profile-picture" src="yash.jpg" height="42" width="42">
 
-Hi! I am a first year PhD student of Computer Science at the [National University of Singapore]().
+Hi! I am a first year PhD student of Computer Science at the [National University of Singapore](https://www.comp.nus.edu.sg).
 
 I broadly work in the field of Logic and Probabilistic Reasoning. I am currently working on verifying probabilistic programs.
 
@@ -20,7 +20,7 @@ Probabilistic Reasoning
 
 ## Publications
 
-1. Yash Pote, Saurabh Joshi, Kuldeep S. Meel: *[Phase Transition Behaviour of Cardinality and XOR Constraints](https://www.comp.nus.edu.sg/~meel/Papers/ijcai19pjm.pdf)* (IJCAI-19) *[abstract]](https://meelgroup.github.io/publication/ijcai19_cardxor/)*,*[cite]](https://meelgroup.github.io/publication/ijcai19_cardxor/)*
+1. Yash Pote, Saurabh Joshi, Kuldeep S. Meel: *[Phase Transition Behaviour of Cardinality and XOR Constraints](https://www.comp.nus.edu.sg/~meel/Papers/ijcai19pjm.pdf)* (IJCAI-19) *[abstract](https://meelgroup.github.io/publication/ijcai19_cardxor/)*,*[cite](https://meelgroup.github.io/publication/ijcai19_cardxor/)*
 
 ## Posts
 
@@ -36,7 +36,7 @@ Year | Month | Title
 
 * [Kuldeep S. Meel](https://www.comp.nus.edu.sg/~meel/): NUS 
 * [Saurabh Joshi](https://sbjoshi.github.io/): IIT-H
-* []
+* [Sourav Chakraborty](https://https://www.isical.ac.in/~sourav/): ISI
 
 ## Research Group
 
