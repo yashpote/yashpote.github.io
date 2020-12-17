@@ -28,10 +28,10 @@ Probabilistic Reasoning
 
 Some stuff I have written.
 
-Year | Title                                                            | Relvant Papers
------|------------------------------------------------------------------|--------------------
-2019 | [Phase Transitions and Counting](https://yashpote.com/parity.md) | [1],[a](), [b](), [c](), [d]()
-2020 | [Sampling](https://yashpote.com/testing.md)                      | [2],[e]()
+Year | Title                                                             | Relvant Papers
+-----|-------------------------------------------------------------------|--------------------
+2019 | [Phase Transitions and Counting](https://yashpote.com/parity.md)  | [1](https://arxiv.org/abs/1910.09755), [a](https://arxiv.org/abs/2007.10400), [b](https://www.comp.nus.edu.sg/~meel/Papers/ijcai16-cnfxor.pdf)
+2020 | [Testing Probabilistic Programs](https://yashpote.com/testing.md) | [2](https://arxiv.org/abs/2010.12918), [c](https://www.comp.nus.edu.sg/~meel/Papers/aaai19-cm.pdf)
 
 ---
 
