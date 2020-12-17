@@ -22,6 +22,7 @@ Probabilistic Reasoning
 
 1. Yash Pote, Saurabh Joshi, Kuldeep S. Meel: *[Phase Transition Behaviour of Cardinality and XOR Constraints](https://arxiv.org/abs/1910.09755)* (IJCAI-19) *[abstract](https://meelgroup.github.io/publication/ijcai19_cardxor/)*,*[cite](https://meelgroup.github.io/publication/ijcai19_cardxor/)*,*[slides](https://meelgroup.github.io/files/slides/ijcai19pjm.pdf)*
 
+2. Kuldeep S. Meel &reg Yash Pote &reg Sourav Chakraborty: *[Phase Transition Behaviour of Cardinality and XOR Constraints](https://arxiv.org/abs/1910.09755)* (IJCAI-19) *[abstract](https://meelgroup.github.io/publication/ijcai19_cardxor/)*,*[cite](https://meelgroup.github.io/publication/ijcai19_cardxor/)*,*[slides](https://meelgroup.github.io/files/slides/ijcai19pjm.pdf)*
 ## Posts
 
 Some stuff I have written.
