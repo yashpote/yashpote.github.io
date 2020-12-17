@@ -14,7 +14,7 @@ I broadly work in the field of Logic and Probabilistic Reasoning. I am currently
 
 SAT 
 
-Constraint Solving 
+Property Testing 
 
 Probabilistic Reasoning
 
@@ -22,15 +22,16 @@ Probabilistic Reasoning
 
 1. Yash Pote, Saurabh Joshi, Kuldeep S. Meel: *[Phase Transition Behaviour of Cardinality and XOR Constraints](https://arxiv.org/abs/1910.09755)* (IJCAI-19) *[abstract](https://meelgroup.github.io/publication/ijcai19_cardxor/)*,*[cite](https://meelgroup.github.io/publication/ijcai19_cardxor/)*,*[slides](https://meelgroup.github.io/files/slides/ijcai19pjm.pdf)*
 
-2. Kuldeep S. Meel &reg Yash Pote &reg Sourav Chakraborty: *[Phase Transition Behaviour of Cardinality and XOR Constraints](https://arxiv.org/abs/1910.09755)* (IJCAI-19) *[abstract](https://meelgroup.github.io/publication/ijcai19_cardxor/)*,*[cite](https://meelgroup.github.io/publication/ijcai19_cardxor/)*,*[slides](https://meelgroup.github.io/files/slides/ijcai19pjm.pdf)*
+2. Kuldeep S. Meel &reg; Yash Pote &reg; Sourav Chakraborty: *[On Testing of Samplers](https://arxiv.org/abs/2010.12918)* (NeuRIPS-20) *[abstract](https://meelgroup.github.io/publication/neurips20_testing/)*,*[cite](https://meelgroup.github.io/publication/neurips20_testing/)*
+
 ## Posts
 
 Some stuff I have written.
 
-Year | Month | Title
------|-------|--------
-2019 | August| [Parity and Counting]()
-
+Year | Month   | Title
+-----|-------- |--------
+2019 | August  | [Parity and Counting]()
+2020 | December| [Testing of Samplers]()
 ---
 
 ## Collaborators
@@ -38,6 +39,7 @@ Year | Month | Title
 * [Kuldeep S. Meel](https://www.comp.nus.edu.sg/~meel/): NUS 
 * [Saurabh Joshi](https://sbjoshi.github.io/): IIT-H
 * [Sourav Chakraborty](https://https://www.isical.ac.in/~sourav/): ISI
+* [Durgesh Agarwal](https://durgeshra.github.io/): IIT-K
 
 ## Research Group
 
