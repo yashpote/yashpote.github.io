@@ -28,11 +28,10 @@ Probabilistic Reasoning
 
 Some stuff I have written.
 
-Year | Month   | Title
------|---------|--------
-2019 | August  | [Parity and Counting](https://yashpote.com/testing)
-
-2020 | December| [Testing of Samplers](https://yashpote.com/parity)
+Year | Title
+-----|--------
+2019 | [Parity and Counting](https://yashpote.com/testing)
+2020 | [Testing of Samplers](https://yashpote.com/parity)
 
 ---
 
