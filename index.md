@@ -29,9 +29,11 @@ Probabilistic Reasoning
 Some stuff I have written.
 
 Year | Month   | Title
------|-------- |--------
+-----|---------|--------
 2019 | August  | [Parity and Counting]()
+
 2020 | December| [Testing of Samplers]()
+
 ---
 
 ## Collaborators
