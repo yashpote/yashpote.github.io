@@ -28,10 +28,10 @@ Probabilistic Reasoning
 
 Some stuff I have written.
 
-Year | Paper | Title
------|-------|----------------------------------------------------
-2019 |       | [Parity and Counting](https://yashpote.com/parity.md)
-2020 |       | [Sampling](https://yashpote.com/testing.md)
+Year | Title                                                            | Relvant Papers
+-----|------------------------------------------------------------------|--------------------
+2019 | [Phase Transitions and Counting](https://yashpote.com/parity.md) | [1],[a](), [b](), [c](), [d]()
+2020 | [Sampling](https://yashpote.com/testing.md)                      | [2],[e]()
 
 ---
 
