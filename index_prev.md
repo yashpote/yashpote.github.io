@@ -6,9 +6,9 @@ layout: default
 
 <img class="profile-picture" src="yash.jpg" height="42" width="42">
 
-Hi! I am a third year PhD student of Computer Science at the [National University of Singapore](https://www.comp.nus.edu.sg).
+Hi! I am a first year PhD student of Computer Science at the [National University of Singapore](https://www.comp.nus.edu.sg).
 
-I am interested in verifying probabilistic programs.
+I broadly work in the field of Logic and Probabilistic Reasoning. I am currently working on verifying probabilistic programs.
 
 ## Research Interests
 
@@ -23,6 +23,15 @@ Probabilistic Reasoning
 1. Yash Pote, Saurabh Joshi, Kuldeep S. Meel: *[Phase Transition Behaviour of Cardinality and XOR Constraints](https://arxiv.org/abs/1910.09755)* (IJCAI-19) *[abstract](https://meelgroup.github.io/publication/ijcai19_cardxor/)*,*[cite](https://meelgroup.github.io/publication/ijcai19_cardxor/)*,*[slides](https://meelgroup.github.io/files/slides/ijcai19pjm.pdf)*
 
 2. Kuldeep S. Meel &reg; Yash Pote &reg; Sourav Chakraborty: *[On Testing of Samplers](https://arxiv.org/abs/2010.12918)* (NeuRIPS-20) *[abstract](https://meelgroup.github.io/publication/neurips20_testing/)*,*[cite](https://meelgroup.github.io/publication/neurips20_testing/)*
+
+## Posts
+
+Some stuff I have written.
+
+Year | Title                                                             | Relvant Papers
+-----|-------------------------------------------------------------------|--------------------
+2019 | [Phase Transitions and Counting](https://yashpote.com/parity.md)  | [\[1\]](https://arxiv.org/abs/1910.09755), [a](https://arxiv.org/abs/2007.10400), [b](https://www.comp.nus.edu.sg/~meel/Papers/ijcai16-cnfxor.pdf)
+2020 | [Testing Probabilistic Programs](https://yashpote.com/testing.md) | [\[2\]](https://arxiv.org/abs/2010.12918), [c](https://www.comp.nus.edu.sg/~meel/Papers/aaai19-cm.pdf)
 
 ---
 
