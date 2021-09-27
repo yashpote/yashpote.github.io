@@ -22,8 +22,9 @@ Probabilistic Reasoning
 
 1. Yash Pote, Saurabh Joshi, Kuldeep S. Meel: *[Phase Transition Behaviour of Cardinality and XOR Constraints](https://arxiv.org/abs/1910.09755)* (IJCAI-19) *[abstract](https://meelgroup.github.io/publication/ijcai19_cardxor/)*,*[cite](https://meelgroup.github.io/publication/ijcai19_cardxor/)*,*[slides](https://meelgroup.github.io/files/slides/ijcai19pjm.pdf)*
 
-2. Kuldeep S. Meel &reg; Yash Pote &reg; Sourav Chakraborty: *[On Testing of Samplers](https://arxiv.org/abs/2010.12918)* (NeuRIPS-20) *[abstract](https://meelgroup.github.io/publication/neurips20_testing/)*,*[cite](https://meelgroup.github.io/publication/neurips20_testing/)*
+2. Kuldeep S. Meel &reg; Yash Pote &reg; Sourav Chakraborty: *[On Testing of Samplers](https://arxiv.org/abs/2010.12918)* (NeuRIPS-20) *[abstract](https://meelgroup.github.io/publication/neurips20_testing/)*,*[cite](https://meelgroup.github.io/publication/neurips20_testing/)*,*[slides](https://meelgroup.github.io/files/slides/Neurips20-MPC.pdf)*,*[video](https://slideslive.com/38936618/on-testing-of-samplers?ref=account-81660-history)*
 
+3. Durgesh Agrawal, Yash Pote, Kuldeep S. Meel: *[Partition Function Estimation: A Quantitative Study.](https://arxiv.org/pdf/2105.11132.pdf)* (IJCAI-21) *[abstract](https://meelgroup.github.io/publication/ijcai21_partition/)*,*[cite](https://meelgroup.github.io/publication/ijcai21_partition/)*,*[poster](https://yashpote/files/posters/ijcai21.pdf)*
 ---
 
 ## Collaborators
@@ -31,7 +32,8 @@ Probabilistic Reasoning
 * [Kuldeep S. Meel](https://www.comp.nus.edu.sg/~meel/): NUS 
 * [Saurabh Joshi](https://sbjoshi.github.io/): IIT-H
 * [Sourav Chakraborty](https://https://www.isical.ac.in/~sourav/): ISI
-* [Durgesh Agarwal](https://durgeshra.github.io/): IIT-K
+* [Durgesh Agrawal](https://durgeshra.github.io/): IIT-K
+* [Djordje Jevdjic](https://www.comp.nus.edu.sg/~jevdjic/): NUS
 
 ## Research Group
 
