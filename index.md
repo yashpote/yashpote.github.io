@@ -20,14 +20,15 @@ SAT Solvers and Model Counters.
 
 ## Publications
 
-1. Yash Pote, Saurabh Joshi, Kuldeep S. Meel: *[Phase Transition Behaviour of Cardinality and XOR Constraints](https://arxiv.org/abs/1910.09755)* (IJCAI-19) *[abstract](https://meelgroup.github.io/publication/ijcai19_cardxor/)*,*[cite](https://meelgroup.github.io/publication/ijcai19_cardxor/)*,*[slides](https://meelgroup.github.io/files/slides/ijcai19pjm.pdf)*,*[video](https://www.youtube.com/watch?v=uUZapkZOLYE)*
+&reg; indicates random author ordering.
 
-2. Kuldeep S. Meel &reg; Yash Pote &reg; Sourav Chakraborty: *[On Testing of Samplers](https://arxiv.org/abs/2010.12918)* (NeurIPS-20) *[abstract](https://meelgroup.github.io/publication/neurips20_testing/)*,*[cite](https://meelgroup.github.io/publication/neurips20_testing/)*,*[slides](https://meelgroup.github.io/files/slides/Neurips20-MPC.pdf)*,*[video](https://slideslive.com/38936618/on-testing-of-samplers?ref=account-81660-history)*
+1. **Yash Pote** &reg; Kuldeep S. Meel: *[Testing Probabilistic Circuits](https://www.comp.nus.edu.sg/~meel/Papers/neurips21-pm.pdf)* (NeurIPS-21) *[abstract](https://meelgroup.github.io/publication/neurips21_teq/)*,*[cite](https://meelgroup.github.io/publication/neurips21_teq/)*
 
-3. Durgesh Agrawal, Yash Pote, Kuldeep S. Meel: *[Partition Function Estimation: A Quantitative Study](https://arxiv.org/abs/2105.11132)* (IJCAI-21) *[abstract](https://meelgroup.github.io/publication/ijcai21_partition/)*,*[cite](https://meelgroup.github.io/publication/ijcai21_partition/)*,*[poster](https://github.com/yashpote/yashpote.github.io/blob/master/files/posters/ijcai21.pdf)*
+2. Durgesh Agrawal, **Yash Pote**, Kuldeep S. Meel: *[Partition Function Estimation: A Quantitative Study](https://arxiv.org/abs/2105.11132)* (IJCAI-21) *[abstract](https://meelgroup.github.io/publication/ijcai21_partition/)*,*[cite](https://meelgroup.github.io/publication/ijcai21_partition/)*,*[poster](https://github.com/yashpote/yashpote.github.io/blob/master/files/posters/ijcai21.pdf)*
 
-4. Yash Pote &reg; Kuldeep S. Meel: *[Testing Probabilistic Circuits](https://www.comp.nus.edu.sg/~meel/Papers/neurips21-pm.pdf)* (NeurIPS-21) *[abstract](https://meelgroup.github.io/publication/neurips21_teq/)*,*[cite](https://meelgroup.github.io/publication/neurips21_teq/)*
+3. Kuldeep S. Meel &reg; **Yash Pote** &reg; Sourav Chakraborty: *[On Testing of Samplers](https://arxiv.org/abs/2010.12918)* (NeurIPS-20) *[abstract](https://meelgroup.github.io/publication/neurips20_testing/)*,*[cite](https://meelgroup.github.io/publication/neurips20_testing/)*,*[slides](https://meelgroup.github.io/files/slides/Neurips20-MPC.pdf)*,*[video](https://slideslive.com/38936618/on-testing-of-samplers?ref=account-81660-history)*
 
+4. **Yash Pote**, Saurabh Joshi, Kuldeep S. Meel: *[Phase Transition Behaviour of Cardinality and XOR Constraints](https://arxiv.org/abs/1910.09755)* (IJCAI-19) *[abstract](https://meelgroup.github.io/publication/ijcai19_cardxor/)*,*[cite](https://meelgroup.github.io/publication/ijcai19_cardxor/)*,*[slides](https://meelgroup.github.io/files/slides/ijcai19pjm.pdf)*,*[video](https://www.youtube.com/watch?v=uUZapkZOLYE)*
 
 ---
 
