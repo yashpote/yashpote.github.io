@@ -6,7 +6,7 @@ layout: default
 
 <img class="profile-picture" src="yash.jpg" height="42" width="42">
 
-Hi! I am a third year PhD student of Computer Science at the [National University of Singapore](https://www.comp.nus.edu.sg).
+Hi! I am a fourth year PhD student of Computer Science at the [National University of Singapore](https://www.comp.nus.edu.sg).
 
 I am interested in verifying probabilistic programs.
 
@@ -14,9 +14,9 @@ I am interested in verifying probabilistic programs.
 
 Distribution Testing.
 
-Verification of Probabilistic Programs.
+SAT/SMT Solvers and Model Counters.
 
-SAT Solvers and Model Counters.
+Probabilistic Programming.
 
 ## Publications
 
