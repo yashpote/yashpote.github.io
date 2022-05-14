@@ -22,7 +22,7 @@ Probabilistic Programming.
 
 &reg; indicates random author ordering.
 
-1. Dehui Lin, Yasamin Tabatabaee, **Yash Pote**, Djordje Jevdjic: *[Managing Reliability Bias in DNA Storage](https://arxiv.org/abs/2204.12261)* (ISCA-22)
+1. Dehui Lin, Yasamin Tabatabaee, **Yash Pote**, Djordje Jevdjic: *[Managing Reliability Skew in DNA Storage](https://arxiv.org/abs/2204.12261)* (ISCA-22)
 
 2. **Yash Pote** &reg; Kuldeep S. Meel: *[Testing Probabilistic Circuits](https://www.comp.nus.edu.sg/~meel/Papers/neurips21-pm.pdf)* (NeurIPS-21) *[abstract](https://meelgroup.github.io/publication/neurips21_teq/)*,*[cite](https://meelgroup.github.io/publication/neurips21_teq/)*
 
