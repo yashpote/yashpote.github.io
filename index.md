@@ -21,7 +21,7 @@ Probabilistic Programming.
 ## Publications
 
 &reg; indicates random author ordering.
-1. Gunjan Kumar &reg; Kuldeep S. Meel &reg; **Yash Pote** &reg; : *[**Distance Estimation in High Dimensions with Subcube Conditioning**]()*
+1. Gunjan Kumar &reg; Kuldeep S. Meel &reg; **Yash Pote**; : *[**Distance Estimation in High Dimensions with Subcube Conditioning**]()*
 
 2. **Yash Pote** &reg; Kuldeep S. Meel: *[**On Scalable Testing of Samplers**](https://arxiv.org/abs/2306.13958)* (NeurIPS-22) *[abstract](https://arxiv.org/abs/2306.13958)*,*[cite](https://yashpote.github.io/files/bibs/PM22.bib)*, *[code](https://github.com/meelgroup/barbarik)*
 
