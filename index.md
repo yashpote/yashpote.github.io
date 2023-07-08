@@ -21,17 +21,19 @@ Probabilistic Programming.
 ## Publications
 
 &reg; indicates random author ordering.
-1. **Yash Pote** &reg; Kuldeep S. Meel: *[**On Scalable Testing of Samplers**](https://arxiv.org/abs/2306.13958)* (NeurIPS-22) *[abstract](https://arxiv.org/abs/2306.13958)*,*[cite](https://yashpote.github.io/files/bibs/PM22.bib)*, *[code](https://github.com/meelgroup/barbarik)*
+1. Gunjan Kumar &reg; Kuldeep S. Meel &reg; **Yash Pote** &reg; : *[**Testing High Dimensional Samplers with Subcube	Conditioning**]
 
-2. Dehui Lin, Yasamin Tabatabaee, **Yash Pote**, Djordje Jevdjic: *[**Managing Reliability Skew in DNA Storage**](https://arxiv.org/abs/2204.12261)* (ISCA-22)
+2. **Yash Pote** &reg; Kuldeep S. Meel: *[**On Scalable Testing of Samplers**](https://arxiv.org/abs/2306.13958)* (NeurIPS-22) *[abstract](https://arxiv.org/abs/2306.13958)*,*[cite](https://yashpote.github.io/files/bibs/PM22.bib)*, *[code](https://github.com/meelgroup/barbarik)*
 
-3. **Yash Pote** &reg; Kuldeep S. Meel: *[**Testing Probabilistic Circuits**](https://www.comp.nus.edu.sg/~meel/Papers/neurips21-pm.pdf)* (NeurIPS-21) *[abstract](https://meelgroup.github.io/publication/neurips21_teq/)*,*[cite](https://meelgroup.github.io/publication/neurips21_teq/)*
+3. Dehui Lin, Yasamin Tabatabaee, **Yash Pote**, Djordje Jevdjic: *[**Managing Reliability Skew in DNA Storage**](https://arxiv.org/abs/2204.12261)* (ISCA-22)
 
-4. Durgesh Agrawal, **Yash Pote**, Kuldeep S. Meel: *[**Partition Function Estimation: A Quantitative Study**](https://arxiv.org/abs/2105.11132)* (IJCAI-21) *[abstract](https://meelgroup.github.io/publication/ijcai21_partition/)*,*[cite](https://meelgroup.github.io/publication/ijcai21_partition/)*,*[poster](https://yashpote.github.io/files/posters/ijcai21.pdf)*
+4. **Yash Pote** &reg; Kuldeep S. Meel: *[**Testing Probabilistic Circuits**](https://www.comp.nus.edu.sg/~meel/Papers/neurips21-pm.pdf)* (NeurIPS-21) *[abstract](https://meelgroup.github.io/publication/neurips21_teq/)*,*[cite](https://meelgroup.github.io/publication/neurips21_teq/)*
 
-5. Kuldeep S. Meel &reg; **Yash Pote** &reg; Sourav Chakraborty: *[**On Testing of Samplers**](https://arxiv.org/abs/2010.12918)* (NeurIPS-20) *[abstract](https://meelgroup.github.io/publication/neurips20_testing/)*,*[cite](https://meelgroup.github.io/publication/neurips20_testing/)*,*[slides](https://meelgroup.github.io/files/slides/Neurips20-MPC.pdf)*,*[video](https://slideslive.com/38936618/on-testing-of-samplers?ref=account-81660-history)*
+5. Durgesh Agrawal, **Yash Pote**, Kuldeep S. Meel: *[**Partition Function Estimation: A Quantitative Study**](https://arxiv.org/abs/2105.11132)* (IJCAI-21) *[abstract](https://meelgroup.github.io/publication/ijcai21_partition/)*,*[cite](https://meelgroup.github.io/publication/ijcai21_partition/)*,*[poster](https://yashpote.github.io/files/posters/ijcai21.pdf)*
 
-6. **Yash Pote**, Saurabh Joshi, Kuldeep S. Meel: *[**Phase Transition Behaviour of Cardinality and XOR Constraints**](https://arxiv.org/abs/1910.09755)* (IJCAI-19) *[abstract](https://meelgroup.github.io/publication/ijcai19_cardxor/)*,*[cite](https://meelgroup.github.io/publication/ijcai19_cardxor/)*,*[slides](https://meelgroup.github.io/files/slides/ijcai19pjm.pdf)*,*[video](https://www.youtube.com/watch?v=uUZapkZOLYE)*
+6. Kuldeep S. Meel &reg; **Yash Pote** &reg; Sourav Chakraborty: *[**On Testing of Samplers**](https://arxiv.org/abs/2010.12918)* (NeurIPS-20) *[abstract](https://meelgroup.github.io/publication/neurips20_testing/)*,*[cite](https://meelgroup.github.io/publication/neurips20_testing/)*,*[slides](https://meelgroup.github.io/files/slides/Neurips20-MPC.pdf)*,*[video](https://slideslive.com/38936618/on-testing-of-samplers?ref=account-81660-history)*
+
+7. **Yash Pote**, Saurabh Joshi, Kuldeep S. Meel: *[**Phase Transition Behaviour of Cardinality and XOR Constraints**](https://arxiv.org/abs/1910.09755)* (IJCAI-19) *[abstract](https://meelgroup.github.io/publication/ijcai19_cardxor/)*,*[cite](https://meelgroup.github.io/publication/ijcai19_cardxor/)*,*[slides](https://meelgroup.github.io/files/slides/ijcai19pjm.pdf)*,*[video](https://www.youtube.com/watch?v=uUZapkZOLYE)*
 
 ---
 
