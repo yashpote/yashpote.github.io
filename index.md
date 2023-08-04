@@ -25,7 +25,7 @@ SAT/SMT Solvers.
 
 3. Dehui Lin, Yasamin Tabatabaee, **Yash Pote**, Djordje Jevdjic: *[**Managing Reliability Skew in DNA Storage**](https://arxiv.org/abs/2204.12261)* (ISCA-22)
 
-4. **Yash Pote** &reg; Kuldeep S. Meel: *[**Testing Probabilistic Circuits**](https://www.comp.nus.edu.sg/~meel/Papers/neurips21-pm.pdf)* (NeurIPS-21) *[abstract](https://meelgroup.github.io/publication/neurips21_teq/)*,*[cite](https://meelgroup.github.io/publication/neurips21_teq/)*
+4. **Yash Pote** &reg; Kuldeep S. Meel: *[**Testing Probabilistic Circuits**](https://arxiv.org/abs/2112.04941)* (NeurIPS-21) *[abstract](https://meelgroup.github.io/publication/neurips21_teq/)*,*[cite](https://meelgroup.github.io/publication/neurips21_teq/)*
 
 5. Durgesh Agrawal, **Yash Pote**, Kuldeep S. Meel: *[**Partition Function Estimation: A Quantitative Study**](https://arxiv.org/abs/2105.11132)* (IJCAI-21) *[abstract](https://meelgroup.github.io/publication/ijcai21_partition/)*,*[cite](https://meelgroup.github.io/publication/ijcai21_partition/)*,*[poster](https://yashpote.github.io/files/posters/ijcai21.pdf)*
 
