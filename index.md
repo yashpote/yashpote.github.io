@@ -22,40 +22,36 @@ SAT/SMT Solvers. -->
 
 &reg; indicates random author ordering.
 
-# Testing
+### Testing
 
 1. Gunjan Kumar &reg; Kuldeep S. Meel &reg; **Yash Pote**; : *[**Distance Estimation in High Dimensions with Subcube Conditioning**](https://arxiv.org/abs/2308.04264)*
-s
-3. **Yash Pote** &reg; Kuldeep S. Meel: *[**On Scalable Testing of Samplers**](https://arxiv.org/abs/2306.13958)* (NeurIPS-22) *[abstract](https://arxiv.org/abs/2306.13958)*,*[cite](https://yashpote.github.io/files/bibs/PM22.bib)*, *[code](https://github.com/meelgroup/barbarik)*
 
-4. **Yash Pote** &reg; Kuldeep S. Meel: *[**Testing Probabilistic Circuits**](https://arxiv.org/abs/2112.04941)* (NeurIPS-21) *[abstract](https://meelgroup.github.io/publication/neurips21_teq/)*,*[cite](https://meelgroup.github.io/publication/neurips21_teq/)*
+2. **Yash Pote** &reg; Kuldeep S. Meel: *[**On Scalable Testing of Samplers**](https://arxiv.org/abs/2306.13958)* (NeurIPS-22) *[abstract](https://arxiv.org/abs/2306.13958)*,*[cite](https://yashpote.github.io/files/bibs/PM22.bib)*, *[code](https://github.com/meelgroup/barbarik)*
 
-7. Kuldeep S. Meel &reg; **Yash Pote** &reg; Sourav Chakraborty: *[**On Testing of Samplers**](https://arxiv.org/abs/2010.12918)* (NeurIPS-20) *[abstract](https://meelgroup.github.io/publication/neurips20_testing/)*,*[cite](https://meelgroup.github.io/publication/neurips20_testing/)*,*[slides](https://meelgroup.github.io/files/slides/Neurips20-MPC.pdf)*,*[video](https://slideslive.com/38936618/on-testing-of-samplers?ref=account-81660-history)*, *[code](https://github.com/meelgroup/barbarik)*
+3. **Yash Pote** &reg; Kuldeep S. Meel: *[**Testing Probabilistic Circuits**](https://arxiv.org/abs/2112.04941)* (NeurIPS-21) *[abstract](https://meelgroup.github.io/publication/neurips21_teq/)*,*[cite](https://meelgroup.github.io/publication/neurips21_teq/)*
 
-
-
-# Applications of SAT Solving
-
-6. Durgesh Agrawal, **Yash Pote**, Kuldeep S. Meel: *[**Partition Function Estimation: A Quantitative Study**](https://arxiv.org/abs/2105.11132)* (IJCAI-21) *[abstract](https://meelgroup.github.io/publication/ijcai21_partition/)*,*[cite](https://meelgroup.github.io/publication/ijcai21_partition/)*,*[poster](https://yashpote.github.io/files/posters/ijcai21.pdf)*
-
-8. **Yash Pote**, Saurabh Joshi, Kuldeep S. Meel: *[**Phase Transition Behaviour of Cardinality and XOR Constraints**](https://arxiv.org/abs/1910.09755)* (IJCAI-19) *[abstract](https://meelgroup.github.io/publication/ijcai19_cardxor/)*,*[cite](https://meelgroup.github.io/publication/ijcai19_cardxor/)*,*[slides](https://meelgroup.github.io/files/slides/ijcai19pjm.pdf)*,*[video](https://www.youtube.com/watch?v=uUZapkZOLYE)*
+4. Kuldeep S. Meel &reg; **Yash Pote** &reg; Sourav Chakraborty: *[**On Testing of Samplers**](https://arxiv.org/abs/2010.12918)* (NeurIPS-20) *[abstract](https://meelgroup.github.io/publication/neurips20_testing/)*,*[cite](https://meelgroup.github.io/publication/neurips20_testing/)*,*[slides](https://meelgroup.github.io/files/slides/Neurips20-MPC.pdf)*,*[video](https://slideslive.com/38936618/on-testing-of-samplers?ref=account-81660-history)*, *[code](https://github.com/meelgroup/barbarik)*
 
 
-# DNA Data Storage
 
-2. Puru Sharma, Cheng-Kai Lim, Dehui Lin, **Yash Pote**, Djordje Jevdjic: *[**Efficiently Supporting Hierarchy and Data Updates in DNA Storage**](https://arxiv.org/abs/2212.13447)* (MICRO-23)
+#### Applications of SAT Solving
 
-4. Dehui Lin, Yasamin Tabatabaee, **Yash Pote**, Djordje Jevdjic: *[**Managing Reliability Skew in DNA Storage**](https://arxiv.org/abs/2204.12261)* (ISCA-22)
+1. Durgesh Agrawal, **Yash Pote**, Kuldeep S. Meel: *[**Partition Function Estimation: A Quantitative Study**](https://arxiv.org/abs/2105.11132)* (IJCAI-21) *[abstract](https://meelgroup.github.io/publication/ijcai21_partition/)*,*[cite](https://meelgroup.github.io/publication/ijcai21_partition/)*,*[poster](https://yashpote.github.io/files/posters/ijcai21.pdf)*
+
+2. **Yash Pote**, Saurabh Joshi, Kuldeep S. Meel: *[**Phase Transition Behaviour of Cardinality and XOR Constraints**](https://arxiv.org/abs/1910.09755)* (IJCAI-19) *[abstract](https://meelgroup.github.io/publication/ijcai19_cardxor/)*,*[cite](https://meelgroup.github.io/publication/ijcai19_cardxor/)*,*[slides](https://meelgroup.github.io/files/slides/ijcai19pjm.pdf)*,*[video](https://www.youtube.com/watch?v=uUZapkZOLYE)*
+
+
+## DNA Data Storage
+
+1. Puru Sharma, Cheng-Kai Lim, Dehui Lin, **Yash Pote**, Djordje Jevdjic: *[**Efficiently Supporting Hierarchy and Data Updates in DNA Storage**](https://arxiv.org/abs/2212.13447)* (MICRO-23)
+
+2. Dehui Lin, Yasamin Tabatabaee, **Yash Pote**, Djordje Jevdjic: *[**Managing Reliability Skew in DNA Storage**](https://arxiv.org/abs/2204.12261)* (ISCA-22)
 
 ---
 
-## Collaborators
+## Advised by
 
 * [Kuldeep S. Meel](https://www.comp.nus.edu.sg/~meel/): Advisor, NUS 
-* [Saurabh Joshi](https://sbjoshi.github.io/): IIT-H
-* [Sourav Chakraborty](https://https://www.isical.ac.in/~sourav/): ISI
-* [Durgesh Agrawal](https://durgeshra.github.io/): IIT-K
-* [Djordje Jevdjic](https://www.comp.nus.edu.sg/~jevdjic/): NUS
 
 ## Research Group
 
