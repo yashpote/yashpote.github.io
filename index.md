@@ -51,4 +51,4 @@ SAT/SMT Solvers. -->
 
 ## Research Group
 
-I work in the [Meel Research Group](https://meelgroup.github.io/), and am advised by *[Prof. Kuldeep S. Meel](https://www.comp.nus.edu.sg/~meel/)*. We are situated in the School of Computing in NUS. 
+I work in the [Meel Research Group](https://meelgroup.github.io/). We are situated in the School of Computing in NUS. 
