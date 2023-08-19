@@ -24,9 +24,7 @@ SAT/SMT Solvers. -->
 
 ### Testing
 
-1.  *[**Distance Estimation in High Dimensions with Subcube Conditioning**](https://arxiv.org/abs/2308.04264)*
-Gunjan Kumar &reg; Kuldeep S. Meel &reg; **Yash Pote**:
-
+1.  *[**Distance Estimation in High Dimensions with Subcube Conditioning**](https://arxiv.org/abs/2308.04264)*\
 Gunjan Kumar &reg; Kuldeep S. Meel &reg; **Yash Pote**:
 
 2. **Yash Pote** &reg; Kuldeep S. Meel: *[**On Scalable Testing of Samplers**](https://arxiv.org/abs/2306.13958)* (NeurIPS-22) *[abstract](https://arxiv.org/abs/2306.13958)*,*[cite](https://yashpote.github.io/files/bibs/PM22.bib)*, *[code](https://github.com/meelgroup/barbarik)*
