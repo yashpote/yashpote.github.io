@@ -6,9 +6,9 @@ layout: default
 
 <img class="profile-picture" src="yash.jpg" height="42" width="42">
 
-I am a fifth year PhD student of Computer Science at the [National University of Singapore](https://www.comp.nus.edu.sg).
+I am a fifth-year Computer Science Ph.D. student at the [National University of Singapore](https://www.comp.nus.edu.sg).
 
-My research interests are in distribution testing, verification, and SAT solving. More generally, I want to understand distributions via testing theory, in order to build scalable tools for real-world distributions such as samplers and generative models. 
+My research interests are in distribution testing, verification, and SAT solving. I want to understand distributions via testing theory to build scalable tools for real-world distributions, such as samplers and generative models. 
 
 I am fortunate to be advised by [Kuldeep S. Meel](https://www.cs.toronto.edu/~meel/). 
 
