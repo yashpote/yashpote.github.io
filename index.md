@@ -25,35 +25,36 @@ SAT/SMT Solvers. -->
 ### Testing
 
 1.  *[**Distance Estimation in High Dimensions with Subcube Conditioning**](https://arxiv.org/abs/2308.04264)*\
-Gunjan Kumar &reg; Kuldeep S. Meel &reg; **Yash Pote**:
+Gunjan Kumar &reg; Kuldeep S. Meel &reg; **Yash Pote**
 
-2.  *[**On Scalable Testing of Samplers**](https://arxiv.org/abs/2306.13958)* (NeurIPS-22) *[abstract](https://arxiv.org/abs/2306.13958)*,*[cite](https://yashpote.github.io/files/bibs/PM22.bib)*, *[code](https://github.com/meelgroup/barbarik)* \
+2.  *[**On Scalable Testing of Samplers**](https://arxiv.org/abs/2306.13958)* (NeurIPS-22) *[abstract](https://arxiv.org/abs/2306.13958)*,*[cite](https://yashpote.github.io/files/bibs/PM22.bib)*, *[code](https://github.com/meelgroup/barbarik)*
+\
 **Yash Pote** &reg; Kuldeep S. Meel
 
-3. *[**Testing Probabilistic Circuits**](https://arxiv.org/abs/2112.04941)* (NeurIPS-21) *[abstract](https://meelgroup.github.io/publication/neurips21_teq/)*,*[cite](https://meelgroup.github.io/publication/neurips21_teq/)* \ 
+4. *[**Testing Probabilistic Circuits**](https://arxiv.org/abs/2112.04941)* (NeurIPS-21) *[abstract](https://meelgroup.github.io/publication/neurips21_teq/)*,*[cite](https://meelgroup.github.io/publication/neurips21_teq/)* \
 **Yash Pote** &reg; Kuldeep S. Meel
 
-4. *[**On Testing of Samplers**](https://arxiv.org/abs/2010.12918)* (NeurIPS-20) *[abstract](https://meelgroup.github.io/publication/neurips20_testing/)*,*[cite](https://meelgroup.github.io/publication/neurips20_testing/)*,*[slides](https://meelgroup.github.io/files/slides/Neurips20-MPC.pdf)*,*[video](https://slideslive.com/38936618/on-testing-of-samplers?ref=account-81660-history)*, *[code](https://github.com/meelgroup/barbarik)* \ 
+6. *[**On Testing of Samplers**](https://arxiv.org/abs/2010.12918)* (NeurIPS-20) *[abstract](https://meelgroup.github.io/publication/neurips20_testing/)*,*[cite](https://meelgroup.github.io/publication/neurips20_testing/)*,*[slides](https://meelgroup.github.io/files/slides/Neurips20-MPC.pdf)*,*[video](https://slideslive.com/38936618/on-testing-of-samplers?ref=account-81660-history)*, *[code](https://github.com/meelgroup/barbarik)* \
 Kuldeep S. Meel &reg; **Yash Pote** &reg; Sourav Chakraborty
 
 
 
 ### Applications of SAT Solvers
 
-1. *[**Partition Function Estimation: A Quantitative Study**](https://arxiv.org/abs/2105.11132)* (IJCAI-21) *[abstract](https://meelgroup.github.io/publication/ijcai21_partition/)*,*[cite](https://meelgroup.github.io/publication/ijcai21_partition/)*,*[poster](https://yashpote.github.io/files/posters/ijcai21.pdf)* \ 
+1. *[**Partition Function Estimation: A Quantitative Study**](https://arxiv.org/abs/2105.11132)* (IJCAI-21) *[abstract](https://meelgroup.github.io/publication/ijcai21_partition/)*,*[cite](https://meelgroup.github.io/publication/ijcai21_partition/)*,*[poster](https://yashpote.github.io/files/posters/ijcai21.pdf)* \
 Durgesh Agrawal, **Yash Pote**, Kuldeep S. Meel
 
-2. *[**Phase Transition Behaviour of Cardinality and XOR Constraints**](https://arxiv.org/abs/1910.09755)* (IJCAI-19) *[abstract](https://meelgroup.github.io/publication/ijcai19_cardxor/)*,*[cite](https://meelgroup.github.io/publication/ijcai19_cardxor/)*,*[slides](https://meelgroup.github.io/files/slides/ijcai19pjm.pdf)*,*[video](https://www.youtube.com/watch?v=uUZapkZOLYE)* \ 
+2. *[**Phase Transition Behaviour of Cardinality and XOR Constraints**](https://arxiv.org/abs/1910.09755)* (IJCAI-19) *[abstract](https://meelgroup.github.io/publication/ijcai19_cardxor/)*,*[cite](https://meelgroup.github.io/publication/ijcai19_cardxor/)*,*[slides](https://meelgroup.github.io/files/slides/ijcai19pjm.pdf)*,*[video](https://www.youtube.com/watch?v=uUZapkZOLYE)* \
 **Yash Pote**, Saurabh Joshi, Kuldeep S. Meel
 
 
 ### DNA Data Storage
 
-1. *[**Efficiently Supporting Hierarchy and Data Updates in DNA Storage**](https://arxiv.org/abs/2212.13447)* (MICRO-23) \ 
-Puru Sharma, Cheng-Kai Lim, Dehui Lin, **Yash Pote**, Djordje Jevdjic: 
+1. *[**Efficiently Supporting Hierarchy and Data Updates in DNA Storage**](https://arxiv.org/abs/2212.13447)* (MICRO-23) \
+Puru Sharma, Cheng-Kai Lim, Dehui Lin, **Yash Pote**, Djordje Jevdjic
 
-2. *[**Managing Reliability Skew in DNA Storage**](https://arxiv.org/abs/2204.12261)* (ISCA-22) \ 
-Dehui Lin, Yasamin Tabatabaee, **Yash Pote**, Djordje Jevdjic: 
+2. *[**Managing Reliability Skew in DNA Storage**](https://arxiv.org/abs/2204.12261)* (ISCA-22) \
+Dehui Lin, Yasamin Tabatabaee, **Yash Pote**, Djordje Jevdjic
 
 ----
 
