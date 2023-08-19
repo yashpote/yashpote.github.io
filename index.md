@@ -25,11 +25,10 @@ SAT/SMT Solvers. -->
 # Testing
 
 1. Gunjan Kumar &reg; Kuldeep S. Meel &reg; **Yash Pote**; : *[**Distance Estimation in High Dimensions with Subcube Conditioning**](https://arxiv.org/abs/2308.04264)*
-
-
+s
 3. **Yash Pote** &reg; Kuldeep S. Meel: *[**On Scalable Testing of Samplers**](https://arxiv.org/abs/2306.13958)* (NeurIPS-22) *[abstract](https://arxiv.org/abs/2306.13958)*,*[cite](https://yashpote.github.io/files/bibs/PM22.bib)*, *[code](https://github.com/meelgroup/barbarik)*
 
-5. **Yash Pote** &reg; Kuldeep S. Meel: *[**Testing Probabilistic Circuits**](https://www.comp.nus.edu.sg/~meel/Papers/neurips21-pm.pdf)* (NeurIPS-21) *[abstract](https://meelgroup.github.io/publication/neurips21_teq/)*,*[cite](https://meelgroup.github.io/publication/neurips21_teq/)*
+4. **Yash Pote** &reg; Kuldeep S. Meel: *[**Testing Probabilistic Circuits**](https://arxiv.org/abs/2112.04941)* (NeurIPS-21) *[abstract](https://meelgroup.github.io/publication/neurips21_teq/)*,*[cite](https://meelgroup.github.io/publication/neurips21_teq/)*
 
 7. Kuldeep S. Meel &reg; **Yash Pote** &reg; Sourav Chakraborty: *[**On Testing of Samplers**](https://arxiv.org/abs/2010.12918)* (NeurIPS-20) *[abstract](https://meelgroup.github.io/publication/neurips20_testing/)*,*[cite](https://meelgroup.github.io/publication/neurips20_testing/)*,*[slides](https://meelgroup.github.io/files/slides/Neurips20-MPC.pdf)*,*[video](https://slideslive.com/38936618/on-testing-of-samplers?ref=account-81660-history)*, *[code](https://github.com/meelgroup/barbarik)*
 
