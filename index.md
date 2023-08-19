@@ -34,25 +34,20 @@ SAT/SMT Solvers. -->
 
 
 
-#### Applications of SAT Solving
+### Applications of SAT Solvers
 
 1. Durgesh Agrawal, **Yash Pote**, Kuldeep S. Meel: *[**Partition Function Estimation: A Quantitative Study**](https://arxiv.org/abs/2105.11132)* (IJCAI-21) *[abstract](https://meelgroup.github.io/publication/ijcai21_partition/)*,*[cite](https://meelgroup.github.io/publication/ijcai21_partition/)*,*[poster](https://yashpote.github.io/files/posters/ijcai21.pdf)*
 
 2. **Yash Pote**, Saurabh Joshi, Kuldeep S. Meel: *[**Phase Transition Behaviour of Cardinality and XOR Constraints**](https://arxiv.org/abs/1910.09755)* (IJCAI-19) *[abstract](https://meelgroup.github.io/publication/ijcai19_cardxor/)*,*[cite](https://meelgroup.github.io/publication/ijcai19_cardxor/)*,*[slides](https://meelgroup.github.io/files/slides/ijcai19pjm.pdf)*,*[video](https://www.youtube.com/watch?v=uUZapkZOLYE)*
 
 
-## DNA Data Storage
+### DNA Data Storage
 
 1. Puru Sharma, Cheng-Kai Lim, Dehui Lin, **Yash Pote**, Djordje Jevdjic: *[**Efficiently Supporting Hierarchy and Data Updates in DNA Storage**](https://arxiv.org/abs/2212.13447)* (MICRO-23)
 
 2. Dehui Lin, Yasamin Tabatabaee, **Yash Pote**, Djordje Jevdjic: *[**Managing Reliability Skew in DNA Storage**](https://arxiv.org/abs/2204.12261)* (ISCA-22)
 
----
-
-## Advised by
-
-* [Kuldeep S. Meel](https://www.comp.nus.edu.sg/~meel/): Advisor, NUS 
 
 ## Research Group
 
-I work in the [Meel Research Group](https://meelgroup.github.io/). We are situated in the School of Computing in NUS. 
+I work in the [Meel Research Group](https://meelgroup.github.io/), and am advised by *[Prof. Kuldeep S. Meel](https://www.comp.nus.edu.sg/~meel/)*. We are situated in the School of Computing in NUS. 
