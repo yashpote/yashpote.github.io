@@ -47,6 +47,7 @@ SAT/SMT Solvers. -->
 
 2. Dehui Lin, Yasamin Tabatabaee, **Yash Pote**, Djordje Jevdjic: *[**Managing Reliability Skew in DNA Storage**](https://arxiv.org/abs/2204.12261)* (ISCA-22)
 
+----
 
 ## Research Group
 
