@@ -5,9 +5,11 @@ layout: default
 
 <img class="profile-picture" src="yash.jpg" height="42" width="42">
 
-I am a final year Computer Science Ph.D. student at the [National University of Singapore](https://www.comp.nus.edu.sg), where I am fortunate to be advised by [Kuldeep S. Meel](https://www.cs.toronto.edu/~meel/).
+I am a final year Computer Science Ph.D. student at the [National University of Singapore](https://www.comp.nus.edu.sg), where I am fortunate to be advised by [Kuldeep S. Meel](https://www.cs.toronto.edu/~meel/). 
 
 My research interests are in distribution testing, verification, and SAT solving. I want to understand distributions via testing theory to build scalable tools for real-world distributions, such as samplers and generative models. 
+
+You can reach me at yashppote@gmail.com.
 
 <!-- ## Research Interests
 
