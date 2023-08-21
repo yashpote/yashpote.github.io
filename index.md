@@ -2,7 +2,6 @@
 layout: default
 ---
 
-## About Me
 
 <img class="profile-picture" src="yash.jpg" height="42" width="42">
 
