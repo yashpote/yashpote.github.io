@@ -7,15 +7,12 @@ layout: default
 
 I am a final year Computer Science Ph.D. student at the [National University of Singapore](https://www.comp.nus.edu.sg), where I am fortunate to be advised by [Kuldeep S. Meel](https://www.cs.toronto.edu/~meel/). 
 
-My research interests are in distribution testing, verification, and SAT solving. I want to understand distributions via testing theory to build scalable tools for real-world distributions, such as samplers and generative models. 
+My main interests are in **distribution testing** and **formal methods**. Specifically, I want to explore and use testing theory to build faster verification tools for real-world distributions, such as samplers and generative models. More generally, I am interested in the use of formal methods tools (like **SAT Solvers**) in machine learning.
 
-You can reach me at yashppote@gmail.com.
 
-<!-- ## Research Interests
+Here is my [CV](cv-yash.pdf). You can reach me at [yashppote@gmail.com](mailto:yashppote@gmail.com).
 
-Distribution Testing.
 
-SAT/SMT Solvers. -->
 ---
 ## Publications
 
@@ -59,4 +56,4 @@ Dehui Lin, Yasamin Tabatabaee, **Yash Pote**, Djordje Jevdjic
 
 ## Research Group
 
-I work in the [Meel Research Group](https://meelgroup.github.io/). We are situated in the School of Computing in NUS. 
+I work in the [Meel Research Group](https://meelgroup.github.io/). We are situated in NUS and University of Toronto. 
