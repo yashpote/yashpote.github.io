@@ -5,9 +5,9 @@ layout: default
 
 <img class="profile-picture" src="yash.jpg" height="42" width="42">
 
-I am a final year Computer Science Ph.D. student at the [National University of Singapore](https://www.comp.nus.edu.sg), where I am fortunate to be advised by [Kuldeep S. Meel](https://www.cs.toronto.edu/~meel/). 
+I am a final year Computer Science Ph.D. student at the [National University of Singapore](https://www.comp.nus.edu.sg), where I am fortunate to be advised by [Kuldeep S. Meel](https://www.cs.toronto.edu/~meel/).
 
-My main interests are in **distribution testing** and **formal methods**. Specifically, I want to explore and use testing theory to build faster verification tools for real-world distributions, such as samplers and generative models. More generally, I am interested in the use of formal methods tools (like **SAT solvers**) in machine learning.
+My main interests are in **distribution testing** and **formal methods**. Specifically, I want to explore and apply the theory of distribution testing to build faster verification tools for real-world distributions, such as samplers and generative models. More generally, I am interested in the use of formal methods (like **SAT solving**) in machine learning.
 
 
 Here is my [CV](cv-yash.pdf). You can reach me at [yashppote@gmail.com](mailto:yashppote@gmail.com).
@@ -56,4 +56,4 @@ Dehui Lin, Yasamin Tabatabaee, **Yash Pote**, Djordje Jevdjic
 
 ## Research Group
 
-I work in the [Meel Research Group](https://meelgroup.github.io/). We are situated in NUS and University of Toronto. 
+I work in the [Meel Research Group](https://meelgroup.github.io/). We are situated in NUS and the [University of Toronto](https://www.utoronto.ca/). 
