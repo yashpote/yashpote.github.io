@@ -7,7 +7,7 @@ layout: default
 
 I am a final year Computer Science Ph.D. student at the [National University of Singapore](https://www.comp.nus.edu.sg), where I am fortunate to be advised by [Kuldeep S. Meel](https://www.cs.toronto.edu/~meel/).
 
-My main interests are in **distribution testing** and **formal methods**. Specifically, I want to explore and apply the theory of distribution testing to build faster verification tools for real-world distributions, such as samplers and generative models. More generally, I am interested in the use of formal methods (like **SAT solving**) in machine learning.
+My main interests are in **distribution testing** and **formal methods**. Specifically, I want to explore and apply the theory of distribution testing to build faster verification tools for real-world distributions, such as samplers and generative models. More generally, I am interested in the use of formal methods (like **combinatorial solving**) in machine learning.
 
 
 Here is my [CV](cv-yash.pdf). You can reach me at [yashppote@gmail.com](mailto:yashppote@gmail.com).
@@ -35,7 +35,7 @@ Kuldeep S. Meel &reg; **Yash Pote** &reg; Sourav Chakraborty
 
 
 
-### Applications of SAT Solvers
+### Combinatorial Solving
 
 1. *[**Partition Function Estimation: A Quantitative Study**](https://arxiv.org/abs/2105.11132)* (IJCAI-21) *[bib](https://meelgroup.github.io/publication/ijcai21_partition/)*, *[poster](https://yashpote.github.io/files/posters/ijcai21.pdf)* \
 Durgesh Agrawal, **Yash Pote**, Kuldeep S. Meel
