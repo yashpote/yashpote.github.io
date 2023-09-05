@@ -16,9 +16,5 @@ sass:
     sass_dir: _sass
 
 nav:
- - name: "About"
-   link: "/"
  - name: "CV"
    link: "cv-yash.pdf"
- - name: "Contact"
-   link: "contact"  
