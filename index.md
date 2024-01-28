@@ -23,7 +23,7 @@ Here is my [CV](cv-yash.pdf). You can reach me at [yashppote@gmail.com](mailto:y
 1.  *[**Distance Estimation in High Dimensions with Subcube Conditioning**](https://arxiv.org/abs/2308.04264)*\
 Gunjan Kumar &reg; Kuldeep S. Meel &reg; **Yash Pote**
 
-2. *[**Testing Self-Reducible Samplers**](https://arxiv.org/abs/2312.10999)*\
+2. *[**Testing Self-Reducible Samplers**](https://arxiv.org/abs/2312.10999)* (AAAI-24) *[bib]*, *[code]* \
 Rishiraj Bhattacharyya, Sourav Chakraborty, **Yash Pote**, Uddalok Sarkar, Sayantan Sen
 
 3.  *[**On Scalable Testing of Samplers**](https://arxiv.org/abs/2306.13958)* (NeurIPS-22) *[bib](https://yashpote.github.io/files/bibs/PM22.bib)*, *[code](https://github.com/meelgroup/barbarik)*
