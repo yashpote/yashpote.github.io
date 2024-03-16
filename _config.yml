@@ -18,3 +18,5 @@ sass:
 nav:
  - name: "CV"
    link: "cv-yash.pdf"
+ - statement: "Statement"
+   link: "statement-yash.pdf"
