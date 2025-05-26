@@ -3,11 +3,11 @@ layout: default
 ---
 
 
-<img class="profile-picture" src="yash.jpg" height="50" width="50">
+<img class="profile-picture" src="yash.jpg" height="75" width="50">
 
 I am a Research Fellow (postdoc) at the [National University of Singapore](https://www.comp.nus.edu.sg), where I am advised by [Jonathan Scarlett](https://www.comp.nus.edu.sg/~scarlett/). I am also in the last stages of my Ph.D. at NUS, where I am advised by [Kuldeep S. Meel](https://www.cs.toronto.edu/~meel/). Prior to that I recieved a B.Tech. in Computer Science and Engineering from IIT-Guwahati.
 
-My main interests are in **distribution testing**, and **formal methods**. Specifically, I want to explore and apply the theory of distribution testing to build verification tools for real-world distributions, such as samplers, generative models and bandits. More generally, I am interested in the use of formal methods (like **combinatorial solving**) in machine learning.
+I'm broadly interested in the theory and practice of *probabilistic formal methods*. Most of my work is on developing techniques in *distribution testing* with the aim of faster verification tools for real-world distributions, such as samplers, generative models, and bandits.  More generally, I am interested in the use of formal methods (like *combinatorial solving*) in machine learning.
 
 
 Here is my [CV](cv-yash.pdf). You can reach me at [yashppote@gmail.com](mailto:yashppote@gmail.com).
