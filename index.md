@@ -22,10 +22,10 @@ Here is my [CV](cv-yash.pdf). You can reach me at [yashppote@gmail.com](mailto:y
 1. *[**Learning Probabilistic Temporal Logic Specifications for Stochastic Systems**](https://arxiv.org/abs/2505.12107)*\
 Rajarshi Roy, \underline{Yash Pote}, David Parker and Marta Kwiatkowska
 
-2.  *[**DDistance Estimation for High-Dimensional Discrete Distributions**](https://arxiv.org/abs/2308.04264)*\
+2.  *[**Distance Estimation for High-Dimensional Discrete Distributions**](https://arxiv.org/abs/2308.04264)*\
 Gunjan Kumar &reg; Kuldeep S. Meel &reg; **Yash Pote**
 
-3. *[**Testing Self-Reducible Samplers**](https://arxiv.org/abs/2312.10999)* (AAAI-24) *[bib]()*, *[code]()* \
+3. *[**Testing Self-Reducible Samplers**](https://arxiv.org/abs/2312.10999)* (AAAI-24) *[bib]()* \
 Rishiraj Bhattacharyya, Sourav Chakraborty, **Yash Pote**, Uddalok Sarkar, Sayantan Sen
 
 4.  *[**On Scalable Testing of Samplers**](https://arxiv.org/abs/2306.13958)* (NeurIPS-22) *[bib](https://yashpote.github.io/files/bibs/PM22.bib)*, *[code](https://github.com/meelgroup/barbarik)*
@@ -41,8 +41,7 @@ Kuldeep S. Meel &reg; **Yash Pote** &reg; Sourav Chakraborty
 
 
 ### Combinatorial Solving
-
-1. *[****](https://arxiv.org/abs/)* (AAAI-24) *[bib]()* \
+1. *[**Towards Real-Time Approximate Counting**](https://doi.org/10.1609/aaai.v39i11.33231)* (AAAI-24) *[bib](https://meelgroup.github.io/publication/aaai25/)* \
 **Yash Pote** &reg; Kuldeep S. Meel &reg; Jiong Yang
 
 2. *[**Partition Function Estimation: A Quantitative Study**](https://arxiv.org/abs/2105.11132)* (IJCAI-21) *[bib](https://meelgroup.github.io/publication/ijcai21_partition/)*, *[poster](https://yashpote.github.io/files/posters/ijcai21.pdf)* \
