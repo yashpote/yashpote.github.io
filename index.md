@@ -3,7 +3,7 @@ layout: default
 ---
 
 
-<img class="profile-picture" src="yashpic.jpg" height="75" width="50">
+<img class="profile-picture" src="yash.jpg" height="65" width="65">
 
 I am a Research Fellow (postdoc) at the [National University of Singapore](https://www.comp.nus.edu.sg), where I am advised by [Jonathan Scarlett](https://www.comp.nus.edu.sg/~scarlett/). I am also in the last stages of my Ph.D. at NUS, where I am advised by [Kuldeep S. Meel](https://www.cs.toronto.edu/~meel/). Prior to that I recieved a B.Tech. in Computer Science and Engineering from IIT-Guwahati.
 
