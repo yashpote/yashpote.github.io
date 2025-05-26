@@ -48,7 +48,8 @@ Selected for oral presentation (4.6% of submitted papers)\
 3. *[**Partition Function Estimation: A Quantitative Study**](https://arxiv.org/abs/2105.11132)* (IJCAI-21) *[bib](https://meelgroup.github.io/publication/ijcai21_partition/)*, *[poster](https://yashpote.github.io/files/posters/ijcai21.pdf)* \
 Durgesh Agrawal, **Yash Pote**, Kuldeep S. Meel
 
-4. *[**Phase Transition Behaviour of Cardinality and XOR Constraints**](https://arxiv.org/abs/1910.09755)* (IJCAI-19) *[bib](https://meelgroup.github.io/publication/ijcai19_cardxor/)*, *[code](https://github.com/meelgroup/1-CARD-XOR)*, *[slides](https://meelgroup.github.io/files/slides/ijcai19pjm.pdf)*, *[video](https://www.youtube.com/watch?v=uUZapkZOLYE)* \
+4. *[**Phase Transition Behaviour of Cardinality and XOR Constraints**](https://arxiv.org/abs/1910.09755)* (IJCAI-19) \
+*[bib](https://meelgroup.github.io/publication/ijcai19_cardxor/)*, *[code](https://github.com/meelgroup/1-CARD-XOR)*, *[slides](https://meelgroup.github.io/files/slides/ijcai19pjm.pdf)*, *[video](https://www.youtube.com/watch?v=uUZapkZOLYE)* \
 **Yash Pote**, Saurabh Joshi, Kuldeep S. Meel
 
 
