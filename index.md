@@ -42,7 +42,7 @@ Kuldeep S. Meel &reg; **Yash Pote** &reg; Sourav Chakraborty
 
 ### Combinatorial Solving
 1. *[**Towards Real-Time Approximate Counting**](https://doi.org/10.1609/aaai.v39i11.33231)* (AAAI-25) *[bib](https://meelgroup.github.io/publication/aaai25/)* \
-Selected for oral presentation (4.6% of submitted papers)
+Selected for oral presentation (4.6% of submitted papers)\
 **Yash Pote** &reg; Kuldeep S. Meel &reg; Jiong Yang
 
 3. *[**Partition Function Estimation: A Quantitative Study**](https://arxiv.org/abs/2105.11132)* (IJCAI-21) *[bib](https://meelgroup.github.io/publication/ijcai21_partition/)*, *[poster](https://yashpote.github.io/files/posters/ijcai21.pdf)* \
