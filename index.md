@@ -5,9 +5,9 @@ layout: default
 
 <img class="profile-picture" src="yash.jpg" height="42" width="42">
 
-I am a final year Computer Science Ph.D. student at the [National University of Singapore](https://www.comp.nus.edu.sg), where I am fortunate to be advised by [Kuldeep S. Meel](https://www.cs.toronto.edu/~meel/).
+I am a Research Fellow (postdoc) at the [National University of Singapore](https://www.comp.nus.edu.sg), where I am advised by [Jonathan Scarlett](https). For my Ph.D. I am advised by [Kuldeep S. Meel](). 
 
-My main interests are in **distribution testing** and **formal methods**. Specifically, I want to explore and apply the theory of distribution testing to build faster verification tools for real-world distributions, such as samplers and generative models. More generally, I am interested in the use of formal methods (like **combinatorial solving**) in machine learning.
+My main interests are in **distribution testing**, **formal methods** and **reinforcement learning**. Specifically, I want to explore and apply the theory of distribution testing to build verification tools for real-world distributions, such as samplers, generative models and bandits. More generally, I am interested in the use of formal methods (like **combinatorial solving**) in machine learning.
 
 
 Here is my [CV](cv-yash.pdf). You can reach me at [yashppote@gmail.com](mailto:yashppote@gmail.com).
@@ -40,10 +40,13 @@ Kuldeep S. Meel &reg; **Yash Pote** &reg; Sourav Chakraborty
 
 ### Combinatorial Solving
 
-1. *[**Partition Function Estimation: A Quantitative Study**](https://arxiv.org/abs/2105.11132)* (IJCAI-21) *[bib](https://meelgroup.github.io/publication/ijcai21_partition/)*, *[poster](https://yashpote.github.io/files/posters/ijcai21.pdf)* \
+1. *[**P**](https://arxiv.org/abs/)* (AAAI-24) *[bib]()* \
+**Yash Pote** &reg; Kuldeep S. Meel &reg; Jiong Yang
+
+2. *[**Partition Function Estimation: A Quantitative Study**](https://arxiv.org/abs/2105.11132)* (IJCAI-21) *[bib](https://meelgroup.github.io/publication/ijcai21_partition/)*, *[poster](https://yashpote.github.io/files/posters/ijcai21.pdf)* \
 Durgesh Agrawal, **Yash Pote**, Kuldeep S. Meel
 
-2. *[**Phase Transition Behaviour of Cardinality and XOR Constraints**](https://arxiv.org/abs/1910.09755)* (IJCAI-19) *[bib](https://meelgroup.github.io/publication/ijcai19_cardxor/)*, *[code](https://github.com/meelgroup/1-CARD-XOR)*, *[slides](https://meelgroup.github.io/files/slides/ijcai19pjm.pdf)*, *[video](https://www.youtube.com/watch?v=uUZapkZOLYE)* \
+3. *[**Phase Transition Behaviour of Cardinality and XOR Constraints**](https://arxiv.org/abs/1910.09755)* (IJCAI-19) *[bib](https://meelgroup.github.io/publication/ijcai19_cardxor/)*, *[code](https://github.com/meelgroup/1-CARD-XOR)*, *[slides](https://meelgroup.github.io/files/slides/ijcai19pjm.pdf)*, *[video](https://www.youtube.com/watch?v=uUZapkZOLYE)* \
 **Yash Pote**, Saurabh Joshi, Kuldeep S. Meel
 
 
@@ -59,4 +62,4 @@ Dehui Lin, Yasamin Tabatabaee, **Yash Pote**, Djordje Jevdjic
 
 ## Research Group
 
-I work in the [Meel Research Group](https://meelgroup.github.io/). We are situated in NUS and the [University of Toronto](https://www.utoronto.ca/). 
+I work in the [Meel Research Group](https://meelgroup.github.io/). We are now situated in Georgia Tech and the [University of Toronto](https://www.utoronto.ca/). 
