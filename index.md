@@ -5,7 +5,7 @@ layout: default
 
 <img class="profile-picture" src="yash.jpg" height="42" width="42">
 
-I am a Research Fellow (postdoc) at the [National University of Singapore](https://www.comp.nus.edu.sg), where I am advised by [Jonathan Scarlett](https). For my Ph.D. I am advised by [Kuldeep S. Meel](). 
+I am a Research Fellow (postdoc) at the [National University of Singapore](https://www.comp.nus.edu.sg), where I am advised by [Jonathan Scarlett](https://www.comp.nus.edu.sg/~scarlett/). I am also in the last stages of my Ph.D. at NUS, where I am advised by [Kuldeep S. Meel](https://www.cs.toronto.edu/~meel/). Prior to that I recieved a B.Tech. in Computer Science and Engineering from IIT-Guwahati.
 
 My main interests are in **distribution testing**, **formal methods** and **reinforcement learning**. Specifically, I want to explore and apply the theory of distribution testing to build verification tools for real-world distributions, such as samplers, generative models and bandits. More generally, I am interested in the use of formal methods (like **combinatorial solving**) in machine learning.
 
@@ -18,29 +18,31 @@ Here is my [CV](cv-yash.pdf). You can reach me at [yashppote@gmail.com](mailto:y
 
 &reg; indicates random author ordering.
 
-### Testing
+### Distribution Testing
+1. *[**Learning Probabilistic Temporal Logic Specifications for Stochastic Systems**](https://arxiv.org/abs/2505.12107)*\
+Rajarshi Roy, \underline{Yash Pote}, David Parker and Marta Kwiatkowska
 
-1.  *[**Distance Estimation in High Dimensions with Subcube Conditioning**](https://arxiv.org/abs/2308.04264)*\
+2.  *[**DDistance Estimation for High-Dimensional Discrete Distributions**](https://arxiv.org/abs/2308.04264)*\
 Gunjan Kumar &reg; Kuldeep S. Meel &reg; **Yash Pote**
 
-2. *[**Testing Self-Reducible Samplers**](https://arxiv.org/abs/2312.10999)* (AAAI-24) *[bib]()*, *[code]()* \
+3. *[**Testing Self-Reducible Samplers**](https://arxiv.org/abs/2312.10999)* (AAAI-24) *[bib]()*, *[code]()* \
 Rishiraj Bhattacharyya, Sourav Chakraborty, **Yash Pote**, Uddalok Sarkar, Sayantan Sen
 
-3.  *[**On Scalable Testing of Samplers**](https://arxiv.org/abs/2306.13958)* (NeurIPS-22) *[bib](https://yashpote.github.io/files/bibs/PM22.bib)*, *[code](https://github.com/meelgroup/barbarik)*
+4.  *[**On Scalable Testing of Samplers**](https://arxiv.org/abs/2306.13958)* (NeurIPS-22) *[bib](https://yashpote.github.io/files/bibs/PM22.bib)*, *[code](https://github.com/meelgroup/barbarik)*
 \
 **Yash Pote** &reg; Kuldeep S. Meel
 
-4. *[**Testing Probabilistic Circuits**](https://arxiv.org/abs/2112.04941)* (NeurIPS-21) *[bib](https://meelgroup.github.io/publication/neurips21_teq/)*, *[code](https://github.com/meelgroup/teq)* \
+5. *[**Testing Probabilistic Circuits**](https://arxiv.org/abs/2112.04941)* (NeurIPS-21) *[bib](https://meelgroup.github.io/publication/neurips21_teq/)*, *[code](https://github.com/meelgroup/teq)* \
 **Yash Pote** &reg; Kuldeep S. Meel
 
-5. *[**On Testing of Samplers**](https://arxiv.org/abs/2010.12918)* (NeurIPS-20) *[bib](https://meelgroup.github.io/publication/neurips20_testing/)*, *[slides](https://meelgroup.github.io/files/slides/Neurips20-MPC.pdf)*, *[video](https://slideslive.com/38936618/on-testing-of-samplers?ref=account-81660-history)*, *[code](https://github.com/meelgroup/barbarik)* \
+6. *[**On Testing of Samplers**](https://arxiv.org/abs/2010.12918)* (NeurIPS-20) *[bib](https://meelgroup.github.io/publication/neurips20_testing/)*, *[slides](https://meelgroup.github.io/files/slides/Neurips20-MPC.pdf)*, *[video](https://slideslive.com/38936618/on-testing-of-samplers?ref=account-81660-history)*, *[code](https://github.com/meelgroup/barbarik)* \
 Kuldeep S. Meel &reg; **Yash Pote** &reg; Sourav Chakraborty
 
 
 
 ### Combinatorial Solving
 
-1. *[**P**](https://arxiv.org/abs/)* (AAAI-24) *[bib]()* \
+1. *[****](https://arxiv.org/abs/)* (AAAI-24) *[bib]()* \
 **Yash Pote** &reg; Kuldeep S. Meel &reg; Jiong Yang
 
 2. *[**Partition Function Estimation: A Quantitative Study**](https://arxiv.org/abs/2105.11132)* (IJCAI-21) *[bib](https://meelgroup.github.io/publication/ijcai21_partition/)*, *[poster](https://yashpote.github.io/files/posters/ijcai21.pdf)* \
