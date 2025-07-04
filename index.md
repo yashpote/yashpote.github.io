@@ -19,46 +19,36 @@ Here is my [CV](cv-yash.pdf). You can reach me at [yashppote@gmail.com](mailto:y
 &reg; indicates random author ordering.
 
 ### Distribution Testing
-11. *[**Learning Probabilistic Temporal Logic Specifications for Stochastic Systems**](https://arxiv.org/abs/2505.12107)* (IJCAI-25)\
+11. *[**Learning Probabilistic Temporal Logic Specifications for Stochastic Systems**](https://arxiv.org/abs/2505.12107)* (IJCAI-25)
 Rajarshi Roy, **Yash Pote**, David Parker and Marta Kwiatkowska
 
-10.  *[**Distance Estimation for High-Dimensional Discrete Distributions**](https://arxiv.org/abs/2308.04264)* (AISTATS-25)\
+10.  *[**Distance Estimation for High-Dimensional Discrete Distributions**](https://arxiv.org/abs/2308.04264)* (AISTATS-25)
 Gunjan Kumar &reg; Kuldeep S. Meel &reg; **Yash Pote**
 
-9. *[**Testing Self-Reducible Samplers**](https://arxiv.org/abs/2312.10999)* (AAAI-24) \
+9. *[**Testing Self-Reducible Samplers**](https://arxiv.org/abs/2312.10999)* (AAAI-24) 
 Rishiraj Bhattacharyya, Sourav Chakraborty, **Yash Pote**, Uddalok Sarkar, Sayantan Sen
 
 8.  *[**On Scalable Testing of Samplers**](https://arxiv.org/abs/2306.13958)* (NeurIPS-22) *[bib](https://yashpote.github.io/files/bibs/PM22.bib)*, *[code](https://github.com/meelgroup/barbarik)*
-\
-**Yash Pote** &reg; Kuldeep S. Meel
+\n**Yash Pote** &reg; Kuldeep S. Meel
 
-7. *[**Testing Probabilistic Circuits**](https://arxiv.org/abs/2112.04941)* (NeurIPS-21) *[bib](https://meelgroup.github.io/publication/neurips21_teq/)*, *[code](https://github.com/meelgroup/teq)* \
-**Yash Pote** &reg; Kuldeep S. Meel
+7. *[**Testing Probabilistic Circuits**](https://arxiv.org/abs/2112.04941)* (NeurIPS-21) *[bib](https://meelgroup.github.io/publication/neurips21_teq/)*, *[code](https://github.com/meelgroup/teq)* \n**Yash Pote** &reg; Kuldeep S. Meel
 
-6. *[**On Testing of Samplers**](https://arxiv.org/abs/2010.12918)* (NeurIPS-20) *[bib](https://meelgroup.github.io/publication/neurips20_testing/)*, *[slides](https://meelgroup.github.io/files/slides/Neurips20-MPC.pdf)*, *[video](https://slideslive.com/38936618/on-testing-of-samplers?ref=account-81660-history)*, *[code](https://github.com/meelgroup/barbarik)* \
-Kuldeep S. Meel &reg; **Yash Pote** &reg; Sourav Chakraborty
+6. *[**On Testing of Samplers**](https://arxiv.org/abs/2010.12918)* (NeurIPS-20) *[bib](https://meelgroup.github.io/publication/neurips20_testing/)*, *[slides](https://meelgroup.github.io/files/slides/Neurips20-MPC.pdf)*, *[video](https://slideslive.com/38936618/on-testing-of-samplers?ref=account-81660-history)*, *[code](https://github.com/meelgroup/barbarik)* \nKuldeep S. Meel &reg; **Yash Pote** &reg; Sourav Chakraborty
 
 
 
 ### Combinatorial Solving
-5. *[**Towards Real-Time Approximate Counting**](https://doi.org/10.1609/aaai.v39i11.33231)* (AAAI-25) *[bib](https://meelgroup.github.io/publication/aaai25/)* \
-Selected for oral presentation (4.6% of submitted papers)\
-**Yash Pote** &reg; Kuldeep S. Meel &reg; Jiong Yang
+5. *[**Towards Real-Time Approximate Counting**](https://doi.org/10.1609/aaai.v39i11.33231)* (AAAI-25) *[bib](https://meelgroup.github.io/publication/aaai25/)* \nSelected for oral presentation (4.6% of submitted papers)\n**Yash Pote** &reg; Kuldeep S. Meel &reg; Jiong Yang
 
-4. *[**Partition Function Estimation: A Quantitative Study**](https://arxiv.org/abs/2105.11132)* (IJCAI-21) *[bib](https://meelgroup.github.io/publication/ijcai21_partition/)*, *[poster](https://yashpote.github.io/files/posters/ijcai21.pdf)* \
-Durgesh Agrawal, **Yash Pote**, Kuldeep S. Meel
+4. *[**Partition Function Estimation: A Quantitative Study**](https://arxiv.org/abs/2105.11132)* (IJCAI-21) *[bib](https://meelgroup.github.io/publication/ijcai21_partition/)*, *[poster](https://yashpote.github.io/files/posters/ijcai21.pdf)* \nDurgesh Agrawal, **Yash Pote**, Kuldeep S. Meel
 
-3. *[**Phase Transition Behaviour of Cardinality and XOR Constraints**](https://arxiv.org/abs/1910.09755)* (IJCAI-19) \
-*[bib](https://meelgroup.github.io/publication/ijcai19_cardxor/)*, *[code](https://github.com/meelgroup/1-CARD-XOR)*, *[slides](https://meelgroup.github.io/files/slides/ijcai19pjm.pdf)*, *[video](https://www.youtube.com/watch?v=uUZapkZOLYE)* \
-**Yash Pote**, Saurabh Joshi, Kuldeep S. Meel
+3. *[**Phase Transition Behaviour of Cardinality and XOR Constraints**](https://arxiv.org/abs/1910.09755)* (IJCAI-19) \n*[bib](https://meelgroup.github.io/publication/ijcai19_cardxor/)*, *[code](https://github.com/meelgroup/1-CARD-XOR)*, *[slides](https://meelgroup.github.io/files/slides/ijcai19pjm.pdf)*, *[video](https://www.youtube.com/watch?v=uUZapkZOLYE)* \n**Yash Pote**, Saurabh Joshi, Kuldeep S. Meel
 
 
 ### DNA Data Storage
 
-2. *[**Efficiently Supporting Hierarchy and Data Updates in DNA Storage**](https://arxiv.org/abs/2212.13447)* (MICRO-23) \
-Puru Sharma, Cheng-Kai Lim, Dehui Lin, **Yash Pote**, Djordje Jevdjic
+2. *[**Efficiently Supporting Hierarchy and Data Updates in DNA Storage**](https://arxiv.org/abs/2212.13447)* (MICRO-23) \nPuru Sharma, Cheng-Kai Lim, Dehui Lin, **Yash Pote**, Djordje Jevdjic
 
-1. *[**Managing Reliability Skew in DNA Storage**](https://arxiv.org/abs/2204.12261)* (ISCA-22) \
-Dehui Lin, Yasamin Tabatabaee, **Yash Pote**, Djordje Jevdjic
+1. *[**Managing Reliability Skew in DNA Storage**](https://arxiv.org/abs/2204.12261)* (ISCA-22) \nDehui Lin, Yasamin Tabatabaee, **Yash Pote**, Djordje Jevdjic
 
 ----
