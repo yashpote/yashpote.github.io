@@ -27,6 +27,9 @@ I'm broadly interested in the theory and practice of *probabilistic formal metho
 &reg; indicates random author ordering.
 
 ### Distribution Testing
+[12] *[**ZERO-SHOT ATTRIBUTION FOR LARGE LANGUAGE MODELS: A DISTRIBUTION TESTING APPROACH**](https://arxiv.org/abs/2506.20197v1)* (under submission)<br>
+Clement L. Canonne, **Yash Pote**, Uddalok Sarkar
+
 [11] *[**Learning Probabilistic Temporal Logic Specifications for Stochastic Systems**](https://arxiv.org/abs/2505.12107)* (IJCAI-25)<br>
 Rajarshi Roy, **Yash Pote**, David Parker and Marta Kwiatkowska
 
