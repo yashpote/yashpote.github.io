@@ -10,15 +10,8 @@ I am a Research Fellow (postdoc) at the [National University of Singapore](https
 I'm broadly interested in the theory and practice of *probabilistic formal methods*. Most of my work is on developing techniques in *distribution testing* with the aim of faster verification tools for real-world distributions, such as samplers, generative models, and bandits.  More generally, I am interested in the use of formal methods (like *combinatorial solving*) in machine learning.
 
 
-<a href="cv-yash.pdf" class="button">View my CV</a>
-<a href="mailto:yashppote@gmail.com" class="button">Email Me</a>
+Here is my [CV](cv-yash.pdf). You can reach me at [yashppote@gmail.com](mailto:yashppote@gmail.com).
 
----
-## Projects
-
-*   **Project 1:** A brief description of your project. You can include a link to the code or a demo.
-*   **Project 2:** A brief description of your project. You can include a link to the code or a demo.
-*   **Project 3:** A brief description of your project. You can include a link to the code or a demo.
 
 ---
 
