@@ -20,7 +20,7 @@ Here is my [CV](cv-yash.pdf). You can reach me at [yashppote@gmail.com](mailto:y
 &reg; indicates random author ordering.
 
 ### Distribution Testing
-[12] *[**Zero-Shot Attribution for Large Language Models: A Distribution Testing Approach**](https://arxiv.org/abs/2506.20197v1)* (under submission)<br>
+[12] *[**Zero-Shot Attribution for Large Language Models: A Distribution Testing Approach**](https://arxiv.org/abs/2506.20197v1)* (under submission) *[code](https://github.com/uddaloksarkar/anubis)*<br>
 Clément L. Canonne, **Yash Pote**, Uddalok Sarkar
 
 [11] *[**Learning Probabilistic Temporal Logic Specifications for Stochastic Systems**](https://arxiv.org/abs/2505.12107)* (IJCAI-25)<br>
