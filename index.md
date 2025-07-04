@@ -33,7 +33,7 @@ Rajarshi Roy, **Yash Pote**, David Parker and Marta Kwiatkowska
 [10]  *[**Distance Estimation for High-Dimensional Discrete Distributions**](https://arxiv.org/abs/2308.04264)* (AISTATS-25)<br>
 Gunjan Kumar &reg; Kuldeep S. Meel &reg; **Yash Pote**
 
-[9] *[**Testing Self-Reducible Samplers**](https://arxiv.org/abs/2312.10999)* (AAAI-24)<br>
+[9] *[**Testing Self-Reducible Samplers**](https://arxiv.org/abs/2312.10999)* (AAAI-24) *[code](https://github.com/uddaloksarkar/cubeprobe)*<br>
 Rishiraj Bhattacharyya, Sourav Chakraborty, **Yash Pote**, Uddalok Sarkar, Sayantan Sen
 
 [8]  *[**On Scalable Testing of Samplers**](https://arxiv.org/abs/2306.13958)* (NeurIPS-22) *[bib](https://yashpote.github.io/files/bibs/PM22.bib)*, *[code](https://github.com/meelgroup/barbarik)*<br>
