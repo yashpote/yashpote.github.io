@@ -20,11 +20,18 @@ Here is my [CV](cv-yash.pdf). You can reach me at [yashppote@gmail.com](mailto:y
 &reg; indicates random author ordering.
 
 ### Distribution Testing
-[12] *[**Zero-Shot Attribution for Large Language Models: A Distribution Testing Approach**](https://arxiv.org/abs/2506.20197v1)* (under submission) *[code](https://github.com/uddaloksarkar/anubis)*<br>
+
+[14] *[**A Distribution Testing Approach to Clustering Distributions**](https://arxiv.org/abs/2512.08376)*
+Gunjan Kumar, **Yash Pote**, Jonathan Scarlett
+
+[13] *[**Zero-Shot Attribution for Large Language Models: A Distribution Testing Approach**](https://arxiv.org/abs/2506.20197v1)* (under submission) *[code](https://github.com/uddaloksarkar/anubis)*<br>
 Clément L. Canonne, **Yash Pote**, Uddalok Sarkar
 
+[12] *[**Instance Dependent Testing of Samplers using Interval Conditioning**](https://arxiv.org/abs/2512.06458v1)* *[code](https://github.com/uddaloksarkar/lachesis)*<br>
+Rishiraj Bhattacharyya, Sourav Chakraborty, **Yash Pote**, Uddalok Sarkar, Sayantan Sen
+
 [11] *[**Learning Probabilistic Temporal Logic Specifications for Stochastic Systems**](https://arxiv.org/abs/2505.12107)* (IJCAI-25)<br>
-Rajarshi Roy, **Yash Pote**, David Parker and Marta Kwiatkowska
+Rajarshi Roy, **Yash Pote**, David Parker, Marta Kwiatkowska
 
 [10]  *[**Distance Estimation for High-Dimensional Discrete Distributions**](https://arxiv.org/abs/2308.04264)* (AISTATS-25)<br>
 Gunjan Kumar &reg; Kuldeep S. Meel &reg; **Yash Pote**
