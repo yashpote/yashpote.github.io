@@ -30,6 +30,7 @@ Here is my [CV](cv-yash.pdf). You can reach me at [yashppote@gmail.com](mailto:y
     <span class="venue">(AAAI-25)</span><br>
     <span class="publication-authors"><strong>Yash Pote</strong> &reg; Kuldeep S. Meel &reg; Jiong Yang</span>
     <em>Selected for oral presentation (4.6% of submitted papers)</em><br>
+ <a href="https://github.com/meelgroup/approxmc" class="badge">code</a>
 </div>
 
 
@@ -109,6 +110,7 @@ Here is my [CV](cv-yash.pdf). You can reach me at [yashppote@gmail.com](mailto:y
     <span class="venue">(AAAI-25)</span><br>
     <span class="publication-authors"><strong>Yash Pote</strong> &reg; Kuldeep S. Meel &reg; Jiong Yang</span>
     <em>Selected for oral presentation (4.6% of submitted papers)</em>
+ <a href="https://github.com/meelgroup/approxmc" class="badge">code</a>
 </div>
 
 <div class="publication-item">
