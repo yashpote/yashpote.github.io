@@ -23,6 +23,7 @@ Here is my [CV](cv-yash.pdf). You can reach me at [yashppote@gmail.com](mailto:y
       <span class="publication-title"><a href="https://arxiv.org/abs/2308.04264">Distance Estimation for High-Dimensional Discrete Distributions</a></span>
       <span class="venue">(AISTATS-25)</span><br>
       <span class="publication-authors">Gunjan Kumar &reg; Kuldeep S. Meel &reg; <strong>Yash Pote</strong></span>
+ <a href="https://github.com/meelgroup/distesti" class="badge">code</a>
  </div>
 
 <div class="publication-item">
