@@ -67,6 +67,7 @@ Here is my [CV](cv-yash.pdf). You can reach me at [yashppote@gmail.com](mailto:y
     [11] <span class="publication-title"><a href="https://arxiv.org/abs/2505.12107">Learning Probabilistic Temporal Logic Specifications for Stochastic Systems</a></span>
     <span class="venue">(IJCAI-25)</span><br>
     <span class="publication-authors">Rajarshi Roy, <strong>Yash Pote</strong>, David Parker, Marta Kwiatkowska</span>
+<a href="https://github.com/rajarshi008/PriTL" class="badge">code</a>
 </div>
 
 <div class="publication-item">
