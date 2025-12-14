@@ -40,7 +40,7 @@ Here is my [CV](cv-yash.pdf). You can reach me at [yashppote@gmail.com](mailto:y
 ## All Publications
 &reg; indicates random author ordering.
 
-<details>
+<details markdown="1">
 <summary style="cursor: pointer; font-weight: bold; color: #800000; margin-bottom: 20px;">Click to view full list</summary>
 
 ### Distribution Testing
