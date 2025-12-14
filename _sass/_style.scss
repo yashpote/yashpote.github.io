@@ -19,7 +19,8 @@ a {
     color: $accent;
 }
 a:hover {
-    text-decoration: underline;
+    text-decoration: none;
+    filter: brightness(120%); /* Makes the red slightly brighter on hover */
 }
 hr {
     border: 0;
