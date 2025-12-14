@@ -1,36 +1,12 @@
 @import "vars";
 
 .content {
-    a:hover {
-        text-decoration: underline;
-    }
-    
-    /* Improved List Spacing */
-    ol > li, ul > li {
-        margin-top: 10px;
-        margin-bottom: 20px; /* More breathing room between pubs */
-        line-height: 1.5;
-    }
-    
-    ul {
-        padding: 0 20px;
-    }
-    ol {
-        padding: 0 30px;
-        counter-reset: list;
-    }
-    ol > li {
-        list-style: none;
-        position: relative;
-    }
-    /* Note: If you use standard markdown lists (1. Item), 
-       this counter logic will auto-number them 1, 2, 3...
-       Since you manually number your pubs [14], [13] in text, 
-       standard <ol> tags might conflict unless we are careful.
-       The CSS below assumes standard ordered lists, but your index.md 
-       uses manual text paragraphs. I have optimized the index.md 
-       below to use standard paragraphs with clean styling instead.
-    */
+    a:hover { text-decoration: none; }
+
+    ol > li, ul > li { margin-top: 10px; margin-bottom: 20px; line-height: 1.5; }
+    ul { padding: 0 20px; }
+    ol { padding: 0 30px; counter-reset: list; }
+    ol > li { list-style: none; position: relative; }
 
     blockquote {
         border-left: 5px solid #333333;
@@ -45,67 +21,26 @@
         position: relative;
         margin: -10px 0 0 15px;
         float: right;
-        border-radius: 5px; /* Slight rounded corner looks modern */
-        p & {
-            padding: 0;
-            margin: 0;
-        }
-        @media (max-width: $small-width) {
-            img {
-                margin-top: -5px;
-            }
-        }
+        border-radius: 5px;
+        p & { padding: 0; margin: 0; }
+        @media (max-width: $small-width) { img { margin-top: -5px; } }
     }
-    img {
-        text-align: center;
-        width: 100%;
-    }
+    img { text-align: center; width: 100%; }
 
-    /* --- NEW STYLES FOR PUBLICATIONS --- */
-    
-    .publication-item {
-        margin-bottom: 25px;
-    }
+    .publication-item { margin-bottom: 25px; overflow: hidden; }
+    .publication-title { font-weight: bold; display: inline; margin-right: 10px; }
+    .venue { float: right; font-weight: bold; color: $accent; text-align: right; white-space: nowrap; }
+    @media (max-width: 550px) { .venue { float: none; display: block; text-align: left; margin: 2px 0; } }
 
-    .publication-title {
-        font-weight: bold;
-    }
-
-    .venue {
-        font-weight: bold;
-        color: $accent; /* Uses your variable #800000 */
-        margin-left: 5px;
-    }
-
-    .publication-authors {
-        color: #555; /* Dark grey for contrast against title */
-        display: block; /* Forces authors to new line */
-        margin: 2px 0 4px 0;
-    }
-    
-    .publication-authors strong {
-        color: #000; /* Highlights your name */
-        //text-decoration: underline; /* Optional: adds subtle emphasis */
-    }
+    .publication-authors { color: #555; display: block; clear: both; margin: 2px 0 4px 0; }
+    .publication-authors strong { color: #000; }
 
     .badge {
-        display: inline-block;
-        padding: 1px 8px;
-        margin-right: 5px;
-        border: 1px solid $accent;
-        border-radius: 12px;
-        color: $accent;
-        font-size: 0.75em;
-        text-decoration: none;
-        font-family: sans-serif;
-        text-transform: uppercase;
-        letter-spacing: 0.5px;
+        display: inline-block; padding: 1px 8px; margin-right: 5px;
+        border: 1px solid $accent; border-radius: 12px;
+        color: $accent; font-size: 0.75em; text-decoration: none;
+        font-family: sans-serif; text-transform: uppercase; letter-spacing: 0.5px;
         transition: all 0.2s;
     }
-
-    .badge:hover {
-        background-color: $accent;
-        color: white;
-        text-decoration: none;
-    }
+    .badge:hover { background-color: $accent; color: white; text-decoration: none; }
 }
