@@ -50,7 +50,6 @@ Here is my [CV](cv-yash.pdf). You can reach me at [yashppote@gmail.com](mailto:y
 
 <div class="publication-item">
     [13] <span class="publication-title"><a href="https://arxiv.org/abs/2506.20197v1">Zero-Shot Attribution for Large Language Models: A Distribution Testing Approach</a></span>
-    <span class="venue">(Under Submission)</span><br>
     <span class="publication-authors">Clément L. Canonne, <strong>Yash Pote</strong>, Uddalok Sarkar</span>
     <a href="https://github.com/uddaloksarkar/anubis" class="badge">code</a>
 </div>
