@@ -53,14 +53,14 @@ Here is my [CV](cv-yash.pdf). You can reach me at [yashppote@gmail.com](mailto:y
 <div class="publication-item">
     [13] <span class="publication-title"><a href="https://arxiv.org/abs/2506.20197v1">Zero-Shot Attribution for Large Language Models: A Distribution Testing Approach</a></span>
     <span class="publication-authors">Clément L. Canonne, <strong>Yash Pote</strong>, Uddalok Sarkar</span>
-    <span class="venue">(AAAI-26)</span><br>
     <a href="https://github.com/uddaloksarkar/anubis" class="badge">code</a>
 </div>
 
 <div class="publication-item">
     [12] <span class="publication-title"><a href="https://arxiv.org/abs/2512.06458v1">Instance Dependent Testing of Samplers using Interval Conditioning</a></span><br>
     <span class="publication-authors">Rishiraj Bhattacharyya, Sourav Chakraborty, <strong>Yash Pote</strong>, Uddalok Sarkar, Sayantan Sen</span>
-    <a href="https://github.com/uddaloksarkar/lachesis" class="badge">code</a>
+    <span class="venue">(AAAI-26)</span><br>    
+<a href="https://github.com/uddaloksarkar/lachesis" class="badge">code</a>
 </div>
 
 <div class="publication-item">
