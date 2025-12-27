@@ -58,7 +58,7 @@ Here is my [CV](cv-yash.pdf). You can reach me at [yashppote@gmail.com](mailto:y
 </div>
 
 <div class="publication-item">
-    [12] <span class="publication-title"><a href="https://arxiv.org/abs/2512.06458v1">Instance Dependent Testing of Samplers using Interval Conditioning</a></span><br>
+    [12] <span class="publication-title"><a href="https://arxiv.org/abs/2512.06458v1">Instance Dependent Testing of Samplers using Interval Conditioning</a></span>
     <span class="venue">(AAAI-26)</span><br>
     <span class="publication-authors">Rishiraj Bhattacharyya, Sourav Chakraborty, <strong>Yash Pote</strong>, Uddalok Sarkar, Sayantan Sen</span>
 <a href="https://github.com/uddaloksarkar/lachesis" class="badge">code</a>
