@@ -14,6 +14,11 @@ Here is my [CV](cv-yash.pdf). You can reach me at [yashppote@gmail.com](mailto:y
 
 ## Selected Publications
 
+<div class="publication-item">
+     <span class="publication-title"><a href="https://arxiv.org/abs/2512.08376">A Distribution Testing Approach to Clustering Distributions</a></span><br>
+     <span class="venue">(COLT-26)</span><br>
+    <span class="publication-authors">Gunjan Kumar, <strong>Yash Pote</strong>, Jonathan Scarlett</span>
+</div>
 
 <div class="publication-item">
       <span class="publication-title"><a href="https://arxiv.org/abs/2308.04264">Distance Estimation for High-Dimensional Discrete Distributions</a></span>
@@ -48,6 +53,7 @@ Here is my [CV](cv-yash.pdf). You can reach me at [yashppote@gmail.com](mailto:y
 
 <div class="publication-item">
     [14] <span class="publication-title"><a href="https://arxiv.org/abs/2512.08376">A Distribution Testing Approach to Clustering Distributions</a></span><br>
+     <span class="venue">(COLT-26)</span><br>
     <span class="publication-authors">Gunjan Kumar, <strong>Yash Pote</strong>, Jonathan Scarlett</span>
 </div>
 
