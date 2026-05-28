@@ -44,22 +44,23 @@
     }
     .badge:hover { background-color: $accent; color: white; text-decoration: none; }
 
-    .news-list {
-        list-style: none;
-        padding: 0;
-        max-height: 180px;
-        overflow-y: auto;
-        border-left: 2px solid $accent;
-        padding-left: 15px;
-        margin: 10px 0;
+    .news { margin: 10px 0; }
+    .news-item {
+        display: grid;
+        grid-template-columns: 90px 1fr;
+        gap: 14px;
+        padding: 6px 0;
+        line-height: 1.5;
     }
-    .news-list > li { margin: 0 0 8px 0; line-height: 1.5; }
+    .news-item + .news-item { border-top: 1px solid rgba(0,0,0,0.06); }
     .news-date {
-        display: inline-block;
-        min-width: 75px;
-        font-weight: bold;
+        font-weight: 600;
         color: $accent;
         font-size: 0.9em;
-        margin-right: 8px;
+        white-space: nowrap;
+    }
+    .news-body { min-width: 0; }
+    @media (max-width: 550px) {
+        .news-item { grid-template-columns: 1fr; gap: 2px; }
     }
 }

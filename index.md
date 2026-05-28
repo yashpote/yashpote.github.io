@@ -14,10 +14,16 @@ Here is my [CV](cv-yash.pdf). You can reach me at [yashppote@gmail.com](mailto:y
 
 ## News
 
-<ul class="news-list">
-    <li><span class="news-date">May 2026</span> New preprint: <a href="http://arxiv.org/abs/2605.23225">Entropy Equivalence Testing</a> (with Clément L. Canonne, Jonathan Scarlett, Joy Qiping Yang).</li>
-    <li><span class="news-date">May 2026</span> <a href="https://arxiv.org/abs/2512.08376">A Distribution Testing Approach to Clustering Distributions</a> accepted at <strong>COLT 2026</strong>.</li>
-</ul>
+<div class="news">
+  <div class="news-item">
+    <div class="news-date">May 2026</div>
+    <div class="news-body">New preprint: <a href="http://arxiv.org/abs/2605.23225">Entropy Equivalence Testing</a> (with Clément L. Canonne, Jonathan Scarlett, Joy Qiping Yang).</div>
+  </div>
+  <div class="news-item">
+    <div class="news-date">May 2026</div>
+    <div class="news-body"><a href="https://arxiv.org/abs/2512.08376">A Distribution Testing Approach to Clustering Distributions</a> accepted at <strong>COLT 2026</strong>.</div>
+  </div>
+</div>
 
 ---
 
