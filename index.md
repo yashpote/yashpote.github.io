@@ -27,7 +27,7 @@ Here is my [CV](cv-yash.pdf). You can reach me at [yashppote@gmail.com](mailto:y
 
 ---
 
-## All Publications
+## Publications
 &reg; indicates random author ordering.
 
 ### Distribution Testing
