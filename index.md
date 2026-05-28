@@ -27,37 +27,6 @@ Here is my [CV](cv-yash.pdf). You can reach me at [yashppote@gmail.com](mailto:y
 
 ---
 
-## Selected Publications
-
-<div class="publication-item">
-     <span class="publication-title"><a href="https://arxiv.org/abs/2512.08376">A Distribution Testing Approach to Clustering Distributions</a></span>
-     <span class="venue">(COLT-26)</span><br>
-    <span class="publication-authors">Gunjan Kumar, <strong>Yash Pote</strong>, Jonathan Scarlett</span>
-</div>
-
-<div class="publication-item">
-      <span class="publication-title"><a href="https://arxiv.org/abs/2308.04264">Distance Estimation for High-Dimensional Discrete Distributions</a></span>
-      <span class="venue">(AISTATS-25)</span><br>
-      <span class="publication-authors">Gunjan Kumar &reg; Kuldeep S. Meel &reg; <strong>Yash Pote</strong></span>
- <a href="https://github.com/meelgroup/distesti" class="badge">code</a>
- </div>
-
-<div class="publication-item">
-    <span class="publication-title"><a href="https://doi.org/10.1609/aaai.v39i11.33231">Towards Real-Time Approximate Counting</a></span>
-    <span class="venue">(AAAI-25)</span><br>
-    <span class="publication-authors"><strong>Yash Pote</strong> &reg; Kuldeep S. Meel &reg; Jiong Yang</span>
-    <em>Selected for oral presentation (4.6% of submitted papers)</em><br>
- <a href="https://github.com/meelgroup/approxmc" class="badge">code</a>
-</div>
-
-<div class="publication-item">
-    <span class="publication-title"><a href="https://arxiv.org/abs/2306.13958">On Scalable Testing of Samplers</a></span>
-    <span class="venue">(NeurIPS-22)</span><br>
-    <span class="publication-authors"><strong>Yash Pote</strong> &reg; Kuldeep S. Meel</span>
-    <a href="https://github.com/meelgroup/barbarik" class="badge">code</a>
-</div>
----
-
 ## All Publications
 &reg; indicates random author ordering.
 
