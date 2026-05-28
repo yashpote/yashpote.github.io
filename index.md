@@ -12,6 +12,15 @@ Here is my [CV](cv-yash.pdf). You can reach me at [yashppote@gmail.com](mailto:y
 
 ---
 
+## News
+
+<ul class="news-list">
+    <li><span class="news-date">May 2026</span> New preprint: <a href="http://arxiv.org/abs/2605.23225">Entropy Equivalence Testing</a> (with Clément L. Canonne, Jonathan Scarlett, Joy Qiping Yang).</li>
+    <li><span class="news-date">May 2026</span> <a href="https://arxiv.org/abs/2512.08376">A Distribution Testing Approach to Clustering Distributions</a> accepted at <strong>COLT 2026</strong>.</li>
+</ul>
+
+---
+
 ## Selected Publications
 
 <div class="publication-item">
@@ -45,9 +54,6 @@ Here is my [CV](cv-yash.pdf). You can reach me at [yashppote@gmail.com](mailto:y
 
 ## All Publications
 &reg; indicates random author ordering.
-
-<details markdown="1">
-<summary style="cursor: pointer; font-weight: bold; color: #800000; margin-bottom: 20px;">Click to view full list</summary>
 
 ### Distribution Testing
 
@@ -158,5 +164,3 @@ Here is my [CV](cv-yash.pdf). You can reach me at [yashppote@gmail.com](mailto:y
     <span class="venue">(ISCA-22)</span><br>
     <span class="publication-authors">Dehui Lin, Yasamin Tabatabaee, <strong>Yash Pote</strong>, Djordje Jevdjic</span>
 </div>
-
-</details>
