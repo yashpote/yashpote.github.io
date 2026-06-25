@@ -14,7 +14,12 @@ Here is my [CV](cv-yash.pdf). You can reach me at [yashppote@gmail.com](mailto:y
 
 ## News
 
+<!-- Show only the latest ~5 items here. Older items live in news.md (/news/). -->
 <div class="news">
+  <div class="news-item">
+    <div class="news-date">June 2026</div>
+    <div class="news-body"><a href="http://arxiv.org/abs/2605.23225">Entropy Equivalence Testing</a> accepted at <strong>RANDOM 2026</strong>.</div>
+  </div>
   <div class="news-item">
     <div class="news-date">May 2026</div>
     <div class="news-body">New preprint: <a href="http://arxiv.org/abs/2605.23225">Entropy Equivalence Testing</a> (with Clément L. Canonne, Jonathan Scarlett, Joy Qiping Yang).</div>
@@ -25,6 +30,8 @@ Here is my [CV](cv-yash.pdf). You can reach me at [yashppote@gmail.com](mailto:y
   </div>
 </div>
 
+<div class="news-more"><a href="/news/">Full news archive →</a></div>
+
 ---
 
 ## Publications
@@ -34,6 +41,7 @@ Here is my [CV](cv-yash.pdf). You can reach me at [yashppote@gmail.com](mailto:y
 
 <div class="publication-item">
     [15] <span class="publication-title"><a href="http://arxiv.org/abs/2605.23225">Entropy Equivalence Testing</a></span>
+     <span class="venue">(RANDOM-26)</span><br>
     <span class="publication-authors">Clément L. Canonne, <strong>Yash Pote</strong>, Jonathan Scarlett, Joy Qiping Yang</span>
 </div>
 

@@ -60,6 +60,7 @@
         white-space: nowrap;
     }
     .news-body { min-width: 0; }
+    .news-more { margin: 4px 0 0; font-size: 0.9em; text-align: right; }
     @media (max-width: 550px) {
         .news-item { grid-template-columns: 1fr; gap: 2px; }
     }
